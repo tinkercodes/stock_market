@@ -20,7 +20,7 @@ def chunkify(lst, chunk_size):
     for i in range(0, len(lst), chunk_size):
         yield lst[i:i + chunk_size]
 
-async def run_stock_tasks(stocks: dict, chunk_size: int = 30) -> list[dict]:
+async def run_stock_tasks(stocks: dict, chunk_size: int = 15) -> list[dict]:
     # Step 1: Save original index to each stock
     for idx, stock in enumerate(stocks):
         stock["original_index"] = idx
@@ -142,12 +142,13 @@ def calculate_mf_percentage_change(mfs: list[str] = None):
         table=[]
         mf_percentage_change = 0
         for stock in mf_data:
-            stocks_id = stock["Link"].split("/")[-1]
-            stock_weight = float(stock['Assets'].replace("%",""))
-            stock_ = stocks.get(stocks_id, {})
-            stock_change = float(stock_.get('percentage_change', '(0%)')[1:-2])
-            signed_stock_change = stock_change * -1 if stock_['absolute_change'].startswith('-') else stock_change
-            mf_percentage_change += signed_stock_change * stock_weight / 100
+            if stock["Link"]:
+                stocks_id = stock["Link"].split("/")[-1]
+                stock_weight = float(stock['Assets'].replace("%",""))
+                stock_ = stocks.get(stocks_id, {})
+                stock_change = float(stock_.get('percentage_change', '(0%)')[1:-2])
+                signed_stock_change = stock_change * -1 if stock_['absolute_change'].startswith('-') else stock_change
+                mf_percentage_change += signed_stock_change * stock_weight / 100
         table.append([" ".join(mf_name.split('-')).capitalize(), f"{mf_percentage_change:.2f}%"])
         
     headers = ["Mutual Fund", "Percentage Change"]
