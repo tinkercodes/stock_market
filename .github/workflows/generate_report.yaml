@@ -1,0 +1,28 @@
+# .github/workflows/scheduled-job.yml
+name: Generate Mutual Fund Live Report
+# This workflow runs a Python script to generate a mutual fund live report every weekday at 11 AM UTC.
+
+on:
+  schedule:
+    - cron: '0 11 * * 1-5'
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run scheduled script
+        run: |
+          python main.py
