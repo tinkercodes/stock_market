@@ -20,7 +20,7 @@ def chunkify(lst, chunk_size):
     for i in range(0, len(lst), chunk_size):
         yield lst[i:i + chunk_size]
 
-async def run_stock_tasks(stocks: dict, chunk_size: int = 15) -> list[dict]:
+async def run_stock_tasks(stocks: dict, chunk_size: int = 30) -> list[dict]:
     # Step 1: Save original index to each stock
     for idx, stock in enumerate(stocks):
         stock["original_index"] = idx
@@ -152,12 +152,16 @@ def calculate_mf_percentage_change(mfs: list[str] = None):
         
     headers = ["Mutual Fund", "Percentage Change"]
 
-    print(tabulate(table, headers=headers, tablefmt="fancy_grid"))
+    print("Report Summary>>\n",tabulate(table, headers=headers, tablefmt="fancy_grid"))
+    with open("report_summary.md", "w") as f:
+        f.write("# Mutual Fund Report Summary\n\n")
+        f.write(tabulate(table, headers=headers, tablefmt="github"))
+        f.write("\n\n> **Note:** Percentage change is calculated based on the weight of each stock in the mutual fund.")
 
     
 
 if __name__ == "__main__":
-    with open("mutual_fund", "r") as f:
+    with open("mutual_funds", "r") as f:
         mfs = [line.strip() for line in f if line.strip()]
     main(mfs)
-    # calculate_mf_percentage_change(mfs)
+    calculate_mf_percentage_change(mfs)

@@ -18,7 +18,7 @@ async def get_element_text(context, url: str, idx: int) -> tuple[dict, int]:
         print(f"[!] Error scraping {url}: {e}")
     finally:
         await page.close()
-        print(f"Processed: {url} \nResult: {stock_data}")
+        # print(f"Processed: {url} \nResult: {stock_data}")
         return stock_data, idx
 
 

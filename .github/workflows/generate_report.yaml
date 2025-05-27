@@ -39,3 +39,11 @@ jobs:
           git add .
           git commit -m "🤖 Update generated report [skip ci]" || echo "Nothing to commit"
           git push
+      
+      - name: Add report summary to GitHub Actions summary
+        run: |
+          if [ -f report_summary.md ]; then
+            cat report_summary.md >> $GITHUB_STEP_SUMMARY
+          else
+            echo "❌ No summary report found" >> $GITHUB_STEP_SUMMARY
+          fi
