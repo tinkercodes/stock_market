@@ -87,11 +87,11 @@ def scrape_MF_web_page(url: str) -> tuple[str, str]:
                 "Link": link
             })
             if instrument=="Equity" and float(assets.replace("%",""))>0 and link: 
-                stocks += ({'name': name, 'Link': link},)
+                stocks += ({"name": name, "Link": link},)
 
         mf_name = url.split("/")[-1]
         json_path = os.path.join("mutual_fund_jsons", f"{mf_name}.json")
-        with open(json_path, "w", encoding='utf-8') as jsonfile:
+        with open(json_path, "w", encoding="utf-8") as jsonfile:
             json.dump(data, jsonfile, indent=2, ensure_ascii=False)
 
         return (mf_name, stocks, "Success")
@@ -121,8 +121,8 @@ def main(mfs: list[str] = None):
     asyncio.run(run_stock_tasks(list(all_stocks)))  # Call async tasks here
     print("Async tasks completed, saving results...")
     # Save all stocks to a JSON file
-    stocks_dict = {stock['Link'].split("/")[-1]: stock for stock in all_stocks}
-    with open("mf_stocks.json", "w", encoding='utf-8') as jsonfile:
+    stocks_dict = {stock["Link"].split("/")[-1]: stock for stock in all_stocks}
+    with open("mf_stocks.json", "w", encoding="utf-8") as jsonfile:
         json.dump(stocks_dict, jsonfile, indent=2, ensure_ascii=False)
     end = time.time()
     print(f"All tasks completed in {end - start:.2f} seconds")
@@ -144,16 +144,18 @@ def calculate_mf_percentage_change(mfs: list[str] = None):
         for stock in mf_data:
             if stock["Link"]:
                 stocks_id = stock["Link"].split("/")[-1]
-                stock_weight = float(stock['Assets'].replace("%",""))
+                stock_weight = float(stock["Assets"].replace("%",""))
                 stock_ = stocks.get(stocks_id, {})
-                stock_change = float(stock_.get('percentage_change', '(0%)')[1:-2])
-                signed_stock_change = stock_change * -1 if stock_['absolute_change'].startswith('-') else stock_change
+                stock_change = float(stock_.get("percentage_change", "(0%)")[1:-2])
+                signed_stock_change = stock_change * -1 if stock_.get("absolute_change","").startswith("-") else stock_change
                 mf_percentage_change += signed_stock_change * stock_weight / 100
-        table.append([" ".join(mf_name.split('-')).capitalize(), f"{mf_percentage_change:.2f}%"])
+        table.append([" ".join(mf_name.split("-")).capitalize(), f"{mf_percentage_change:.2f}%"])
         
     headers = ["Mutual Fund", "Percentage Change"]
 
-    print("Report Summary>>\n",tabulate(table, headers=headers, tablefmt="fancy_grid"))
+    print("================Report Summary================")
+    print()
+    print(tabulate(table, headers=headers, tablefmt="fancy_grid"))
     with open("report_summary.md", "w") as f:
         f.write("# Mutual Fund Report Summary\n\n")
         f.write(tabulate(table, headers=headers, tablefmt="github"))
@@ -162,7 +164,7 @@ def calculate_mf_percentage_change(mfs: list[str] = None):
     
 
 if __name__ == "__main__":
-    with open("mutual_funds", "r") as f:
+    with open("mutual_fund", "r") as f:
         mfs = [line.strip() for line in f if line.strip()]
     main(mfs)
     calculate_mf_percentage_change(mfs)
