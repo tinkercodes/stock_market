@@ -86,8 +86,8 @@ def scrape_MF_web_page(url: str) -> tuple[str, str]:
                 "Assets": assets,
                 "Link": link
             })
-            if instrument=="Equity" and float(assets.replace("%",""))>0: 
-                stocks += ({'name': name, 'Link': link, 'Assets': assets},)
+            if instrument=="Equity" and float(assets.replace("%",""))>0 and link: 
+                stocks += ({'name': name, 'Link': link},)
 
         mf_name = url.split("/")[-1]
         json_path = os.path.join("mutual_fund_jsons", f"{mf_name}.json")
