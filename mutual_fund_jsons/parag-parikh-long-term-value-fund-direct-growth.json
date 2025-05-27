@@ -1,0 +1,1360 @@
+[
+  {
+    "Name": "HDFC Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "8.36%",
+    "Link": "/stocks/hdfc-bank-ltd"
+  },
+  {
+    "Name": "Bajaj Holdings & Investment Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "6.46%",
+    "Link": "/stocks/bajaj-holdings-investment-ltd"
+  },
+  {
+    "Name": "Power Grid Corporation Of India Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "6.04%",
+    "Link": "/stocks/power-grid-corporation-of-india-ltd"
+  },
+  {
+    "Name": "Coal India Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "5.80%",
+    "Link": "/stocks/coal-india-ltd"
+  },
+  {
+    "Name": "ICICI Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "5.07%",
+    "Link": "/stocks/icici-bank-ltd"
+  },
+  {
+    "Name": "ITC Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "4.55%",
+    "Link": "/stocks/itc-ltd"
+  },
+  {
+    "Name": "Kotak Mahindra Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "4.43%",
+    "Link": "/stocks/kotak-mahindra-bank-ltd"
+  },
+  {
+    "Name": "Maruti Suzuki India Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "3.76%",
+    "Link": "/stocks/maruti-suzuki-india-ltd"
+  },
+  {
+    "Name": "Mahindra & Mahindra Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "3.28%",
+    "Link": "/stocks/mahindra-mahindra-ltd"
+  },
+  {
+    "Name": "Axis Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "3.28%",
+    "Link": "/stocks/axis-bank-ltd"
+  },
+  {
+    "Name": "HCL Technologies Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Equity",
+    "Assets": "2.98%",
+    "Link": "/stocks/hcl-technologies-ltd"
+  },
+  {
+    "Name": "Meta Platforms Inc",
+    "Sector": "Services",
+    "Instrument": "Forgn. Eq",
+    "Assets": "2.78%",
+    "Link": null
+  },
+  {
+    "Name": "Alphabet Inc Class A",
+    "Sector": "Services",
+    "Instrument": "Forgn. Eq",
+    "Assets": "2.57%",
+    "Link": null
+  },
+  {
+    "Name": "Microsoft Corportion (US)",
+    "Sector": "Technology",
+    "Instrument": "Forgn. Eq",
+    "Assets": "2.48%",
+    "Link": null
+  },
+  {
+    "Name": "Amazon. com Inc. (USA)",
+    "Sector": "Services",
+    "Instrument": "Forgn. Eq",
+    "Assets": "2.17%",
+    "Link": null
+  },
+  {
+    "Name": "Infosys Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Equity",
+    "Assets": "1.42%",
+    "Link": "/stocks/infosys-ltd"
+  },
+  {
+    "Name": "Cipla Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.26%",
+    "Link": "/stocks/cipla-ltd"
+  },
+  {
+    "Name": "Zydus Lifesciences Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.26%",
+    "Link": "/stocks/cadila-healthcare-ltd"
+  },
+  {
+    "Name": "Dr. Reddy's Laboratories Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.25%",
+    "Link": "/stocks/dr-reddys-laboratories-ltd"
+  },
+  {
+    "Name": "Balkrishna Industries Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "1.14%",
+    "Link": "/stocks/balkrishna-industries-ltd"
+  },
+  {
+    "Name": "Reliance Industries Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "0.92%",
+    "Link": "/stocks/reliance-industries-ltd"
+  },
+  {
+    "Name": "Indian Energy Exchange Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.85%",
+    "Link": "/stocks/indian-energy-exchange-ltd"
+  },
+  {
+    "Name": "ICICI Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.59%",
+    "Link": null
+  },
+  {
+    "Name": "Punjab National Bank",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.59%",
+    "Link": null
+  },
+  {
+    "Name": "Motilal Oswal Financial Services Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.57%",
+    "Link": "/stocks/motilal-oswal-financial-services-ltd"
+  },
+  {
+    "Name": "National Bank For Agriculture & Rural Development",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.51%",
+    "Link": null
+  },
+  {
+    "Name": "Multi Commodity Exchange Of India Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.50%",
+    "Link": "/stocks/multi-commodity-exchange-of-india-ltd"
+  },
+  {
+    "Name": "Union Bank of India",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.49%",
+    "Link": null
+  },
+  {
+    "Name": "National Bank For Agriculture & Rural Development",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.46%",
+    "Link": null
+  },
+  {
+    "Name": "Narayana Hrudayalaya Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.36%",
+    "Link": "/stocks/narayana-hrudayalaya-ltd"
+  },
+  {
+    "Name": "Indian Bank",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.34%",
+    "Link": null
+  },
+  {
+    "Name": "Parag Parikh Liquid Fund Direct - Growth",
+    "Sector": "NA",
+    "Instrument": "Mutual Fund",
+    "Assets": "0.31%",
+    "Link": null
+  },
+  {
+    "Name": "Central Depository Services (India) Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.30%",
+    "Link": "/stocks/central-depository-services-india-ltd"
+  },
+  {
+    "Name": "Axis Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.30%",
+    "Link": null
+  },
+  {
+    "Name": "Canara Bank",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.30%",
+    "Link": null
+  },
+  {
+    "Name": "HDFC Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.30%",
+    "Link": null
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.29%",
+    "Link": null
+  },
+  {
+    "Name": "Kotak Mahindra Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.29%",
+    "Link": null
+  },
+  {
+    "Name": "Canara Bank",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.29%",
+    "Link": null
+  },
+  {
+    "Name": "Indian Bank",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.29%",
+    "Link": null
+  },
+  {
+    "Name": "ICICI Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.28%",
+    "Link": null
+  },
+  {
+    "Name": "Ipca Laboratories Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.26%",
+    "Link": "/stocks/ipca-laboratories-ltd"
+  },
+  {
+    "Name": "E.I.D. - Parry (India) Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "0.25%",
+    "Link": "/stocks/eid-parry-india-ltd"
+  },
+  {
+    "Name": "Bajaj Finance Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.25%",
+    "Link": "/stocks/bajaj-finance-ltd"
+  },
+  {
+    "Name": "Bank Of Baroda",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.24%",
+    "Link": null
+  },
+  {
+    "Name": "Bank Of Baroda",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.22%",
+    "Link": null
+  },
+  {
+    "Name": "Bank Of Baroda",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.22%",
+    "Link": null
+  },
+  {
+    "Name": "Indian Bank",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.20%",
+    "Link": null
+  },
+  {
+    "Name": "Kotak Mahindra Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.20%",
+    "Link": null
+  },
+  {
+    "Name": "Tata Consultancy Services Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Equity",
+    "Assets": "0.20%",
+    "Link": "/stocks/tata-consultancy-services-ltd"
+  },
+  {
+    "Name": "Kotak Mahindra Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.20%",
+    "Link": null
+  },
+  {
+    "Name": "HDFC Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.20%",
+    "Link": null
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.19%",
+    "Link": null
+  },
+  {
+    "Name": "Punjab National Bank",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.19%",
+    "Link": null
+  },
+  {
+    "Name": "Bank Of Baroda",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.19%",
+    "Link": null
+  },
+  {
+    "Name": "Canara Bank",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.19%",
+    "Link": null
+  },
+  {
+    "Name": "Punjab National Bank",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.19%",
+    "Link": null
+  },
+  {
+    "Name": "HDFC Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.17%",
+    "Link": null
+  },
+  {
+    "Name": "ICRA Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.16%",
+    "Link": "/stocks/icra-ltd"
+  },
+  {
+    "Name": "Axis Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.15%",
+    "Link": null
+  },
+  {
+    "Name": "Axis Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.15%",
+    "Link": null
+  },
+  {
+    "Name": "Bharti Airtel Ltd.",
+    "Sector": "Communication",
+    "Instrument": "Equity",
+    "Assets": "0.15%",
+    "Link": "/stocks/bharti-airtel-ltd"
+  },
+  {
+    "Name": "JIO Financial Services Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.14%",
+    "Link": "/stocks/jio-financial-services-ltd"
+  },
+  {
+    "Name": "Axis Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.12%",
+    "Link": null
+  },
+  {
+    "Name": "HDFC Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.12%",
+    "Link": null
+  },
+  {
+    "Name": "Union Bank of India",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.12%",
+    "Link": null
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.11%",
+    "Link": null
+  },
+  {
+    "Name": "Bank Of Baroda",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "Larsen & Toubro Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.10%",
+    "Link": "/stocks/larsen-toubro-ltd"
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "HDFC Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "Axis Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "HDFC Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "Axis Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "Kotak Mahindra Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "Canara Bank",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "Union Bank of India",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "Union Bank of India",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "Kotak Mahindra Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "Union Bank of India",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "Indian Bank",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "Canara Bank",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "Kotak Mahindra Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.10%",
+    "Link": null
+  },
+  {
+    "Name": "Maharashtra Scooters Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "0.09%",
+    "Link": "/stocks/maharashtra-scooters-ltd"
+  },
+  {
+    "Name": "Sun Pharmaceutical Industries Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.09%",
+    "Link": "/stocks/sun-pharmaceutical-industries-ltd"
+  },
+  {
+    "Name": "Tata Motors Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "0.08%",
+    "Link": "/stocks/tata-motors-ltd"
+  },
+  {
+    "Name": "Axis Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.07%",
+    "Link": null
+  },
+  {
+    "Name": "Hindalco Industries Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "0.07%",
+    "Link": "/stocks/hindalco-industries-ltd"
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.05%",
+    "Link": null
+  },
+  {
+    "Name": "Indian Bank",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.05%",
+    "Link": null
+  },
+  {
+    "Name": "Union Bank of India",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.05%",
+    "Link": null
+  },
+  {
+    "Name": "Bharat Electronics Ltd.",
+    "Sector": "Capital Goods",
+    "Instrument": "Equity",
+    "Assets": "0.04%",
+    "Link": "/stocks/bharat-electronics-ltd"
+  },
+  {
+    "Name": "Oil And Natural Gas Corporation Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "0.04%",
+    "Link": "/stocks/oil-natural-gas-corporation-ltd"
+  },
+  {
+    "Name": "Punjab National Bank",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.03%",
+    "Link": "/stocks/punjab-national-bank"
+  },
+  {
+    "Name": "Bharat Petroleum Corporation Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "0.03%",
+    "Link": "/stocks/bharat-petroleum-corporation-ltd"
+  },
+  {
+    "Name": "Hindustan Unilever Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "0.03%",
+    "Link": "/stocks/hindustan-unilever-ltd"
+  },
+  {
+    "Name": "Grasim Industries Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.03%",
+    "Link": "/stocks/grasim-industries-ltd"
+  },
+  {
+    "Name": "Hindustan Copper Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "0.03%",
+    "Link": "/stocks/hindustan-copper-ltd"
+  },
+  {
+    "Name": "ICICI Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "CD",
+    "Assets": "0.02%",
+    "Link": null
+  },
+  {
+    "Name": "Vedanta Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "0.02%",
+    "Link": "/stocks/vedanta-ltd"
+  },
+  {
+    "Name": "Swaraj Engines Ltd.",
+    "Sector": "Capital Goods",
+    "Instrument": "Equity",
+    "Assets": "0.02%",
+    "Link": "/stocks/swaraj-engines-ltd"
+  },
+  {
+    "Name": "Tata Consumer Products Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "0.02%",
+    "Link": "/stocks/tata-global-beverages-ltd"
+  },
+  {
+    "Name": "Varun Beverages Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "0.02%",
+    "Link": "/stocks/varun-beverages-ltd"
+  },
+  {
+    "Name": "Indusind Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.02%",
+    "Link": "/stocks/indusind-bank-ltd"
+  },
+  {
+    "Name": "Birlasoft Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Equity",
+    "Assets": "0.02%",
+    "Link": "/stocks/kpit-technologies-ltd"
+  },
+  {
+    "Name": "Hero Motocorp Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "0.02%",
+    "Link": "/stocks/hero-motocorp-ltd"
+  },
+  {
+    "Name": "GMR Airports Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/gmr-infrastructure-ltd"
+  },
+  {
+    "Name": "NTPC Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/ntpc-ltd"
+  },
+  {
+    "Name": "Bandhan Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/bandhan-bank-ltd"
+  },
+  {
+    "Name": "Steel Authority Of India Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/steel-authority-of-india-ltd"
+  },
+  {
+    "Name": "Bajaj Finserv Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/bajaj-finserv-ltd"
+  },
+  {
+    "Name": "RBL Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/rbl-bank-ltd"
+  },
+  {
+    "Name": "DLF Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/dlf-ltd"
+  },
+  {
+    "Name": "Eicher Motors Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/eicher-motors-ltd"
+  },
+  {
+    "Name": "Indian Railway Catering & Tourism Corporation Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/indian-railway-catering-tourism-corpn-ltd"
+  },
+  {
+    "Name": "HDFC Life Insurance Co Ltd.",
+    "Sector": "Insurance",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/hdfc-standard-life-insurance-co-ltd"
+  },
+  {
+    "Name": "LIC Housing Finance Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/lic-housing-finance-ltd"
+  },
+  {
+    "Name": "Hindustan Petroleum Corporation Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/hindustan-petroleum-corporation-ltd"
+  },
+  {
+    "Name": "Biocon Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/biocon-ltd"
+  },
+  {
+    "Name": "Titan Company Ltd.",
+    "Sector": "Consumer Discretionary",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/titan-company-ltd"
+  },
+  {
+    "Name": "Tata Chemicals Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/tata-chemicals-ltd"
+  },
+  {
+    "Name": "Tata Steel Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/tata-steel-ltd"
+  },
+  {
+    "Name": "Polycab India Ltd.",
+    "Sector": "Capital Goods",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/polycab-india-ltd"
+  },
+  {
+    "Name": "Bharat Heavy Electricals Ltd.",
+    "Sector": "Capital Goods",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/bharat-heavy-electricals-ltd"
+  },
+  {
+    "Name": "IIFL Finance Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/iifl-holdings-ltd"
+  },
+  {
+    "Name": "Tech Mahindra Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/tech-mahindra-ltd"
+  },
+  {
+    "Name": "Aurobindo Pharma Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/aurobindo-pharma-ltd"
+  },
+  {
+    "Name": "PI Industries Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/pi-industries-ltd"
+  },
+  {
+    "Name": "Godrej Properties Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/godrej-properties-ltd"
+  },
+  {
+    "Name": "Indus Towers Ltd.",
+    "Sector": "Communication",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/bharti-infratel-ltd"
+  },
+  {
+    "Name": "Lupin Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/lupin-ltd"
+  },
+  {
+    "Name": "Mahanagar Gas Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/mahanagar-gas-ltd"
+  },
+  {
+    "Name": "Jindal Steel & Power Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/jindal-steel-power-ltd"
+  },
+  {
+    "Name": "The Indian Hotels Company Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/the-indian-hotels-company-ltd"
+  },
+  {
+    "Name": "GAIL (India) Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/gail-india-ltd"
+  },
+  {
+    "Name": "JSW Steel Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/jsw-steel-ltd"
+  },
+  {
+    "Name": "Interglobe Aviation Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/interglobe-aviation-ltd"
+  },
+  {
+    "Name": "United Spirits Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/united-spirits-ltd"
+  },
+  {
+    "Name": "Tata Communications Ltd.",
+    "Sector": "Communication",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/tata-communications-ltd"
+  },
+  {
+    "Name": "Tata Communications Ltd.",
+    "Sector": "Communication",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "United Spirits Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "Interglobe Aviation Ltd.",
+    "Sector": "Services",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "JSW Steel Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "GAIL (India) Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "The Indian Hotels Company Ltd.",
+    "Sector": "Services",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "Jindal Steel & Power Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "Mahanagar Gas Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "Lupin Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "Indus Towers Ltd.",
+    "Sector": "Communication",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "Godrej Properties Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "PI Industries Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "Aurobindo Pharma Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "Tech Mahindra Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "IIFL Finance Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Futures",
+    "Assets": "-0.00%",
+    "Link": null
+  },
+  {
+    "Name": "Bharat Heavy Electricals Ltd.",
+    "Sector": "Capital Goods",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "Polycab India Ltd.",
+    "Sector": "Capital Goods",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "Tata Steel Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "Tata Chemicals Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "Titan Company Ltd.",
+    "Sector": "Consumer Discretionary",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "Biocon Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "Hindustan Petroleum Corporation Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "LIC Housing Finance Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "HDFC Life Insurance Co Ltd.",
+    "Sector": "Insurance",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "Indian Railway Catering & Tourism Corporation Ltd.",
+    "Sector": "Services",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "Eicher Motors Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "DLF Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "RBL Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "Bajaj Finserv Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "Steel Authority Of India Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "Bandhan Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "NTPC Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "GMR Airports Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Futures",
+    "Assets": "-0.01%",
+    "Link": null
+  },
+  {
+    "Name": "Hero Motocorp Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Futures",
+    "Assets": "-0.02%",
+    "Link": null
+  },
+  {
+    "Name": "Indusind Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Futures",
+    "Assets": "-0.02%",
+    "Link": null
+  },
+  {
+    "Name": "Birlasoft Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Futures",
+    "Assets": "-0.02%",
+    "Link": null
+  },
+  {
+    "Name": "Varun Beverages Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Futures",
+    "Assets": "-0.02%",
+    "Link": null
+  },
+  {
+    "Name": "Tata Consumer Products Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Futures",
+    "Assets": "-0.02%",
+    "Link": null
+  },
+  {
+    "Name": "Vedanta Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Futures",
+    "Assets": "-0.02%",
+    "Link": null
+  },
+  {
+    "Name": "Hindustan Copper Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Futures",
+    "Assets": "-0.03%",
+    "Link": null
+  },
+  {
+    "Name": "Grasim Industries Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Futures",
+    "Assets": "-0.03%",
+    "Link": null
+  },
+  {
+    "Name": "Hindustan Unilever Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Futures",
+    "Assets": "-0.03%",
+    "Link": null
+  },
+  {
+    "Name": "Bharat Petroleum Corporation Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Futures",
+    "Assets": "-0.03%",
+    "Link": null
+  },
+  {
+    "Name": "Punjab National Bank",
+    "Sector": "Financial",
+    "Instrument": "Futures",
+    "Assets": "-0.03%",
+    "Link": null
+  },
+  {
+    "Name": "Oil And Natural Gas Corporation Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Futures",
+    "Assets": "-0.04%",
+    "Link": null
+  },
+  {
+    "Name": "Bharat Electronics Ltd.",
+    "Sector": "Capital Goods",
+    "Instrument": "Futures",
+    "Assets": "-0.04%",
+    "Link": null
+  },
+  {
+    "Name": "Hindalco Industries Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Futures",
+    "Assets": "-0.07%",
+    "Link": null
+  },
+  {
+    "Name": "Tata Motors Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Futures",
+    "Assets": "-0.08%",
+    "Link": null
+  },
+  {
+    "Name": "Sun Pharmaceutical Industries Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Futures",
+    "Assets": "-0.09%",
+    "Link": null
+  },
+  {
+    "Name": "Larsen & Toubro Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Futures",
+    "Assets": "-0.10%",
+    "Link": null
+  },
+  {
+    "Name": "JIO Financial Services Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Futures",
+    "Assets": "-0.14%",
+    "Link": null
+  },
+  {
+    "Name": "Bharti Airtel Ltd.",
+    "Sector": "Communication",
+    "Instrument": "Futures",
+    "Assets": "-0.15%",
+    "Link": null
+  },
+  {
+    "Name": "Tata Consultancy Services Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Futures",
+    "Assets": "-0.20%",
+    "Link": null
+  },
+  {
+    "Name": "Bajaj Finance Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Futures",
+    "Assets": "-0.25%",
+    "Link": null
+  },
+  {
+    "Name": "Reliance Industries Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Futures",
+    "Assets": "-0.93%",
+    "Link": null
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "Name": "HDFC Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "9.65%",
+    "Link": "/stocks/hdfc-bank-ltd"
+  },
+  {
+    "Name": "Reliance Industries Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "5.56%",
+    "Link": "/stocks/reliance-industries-ltd"
+  },
+  {
+    "Name": "ICICI Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "3.71%",
+    "Link": "/stocks/icici-bank-ltd"
+  },
+  {
+    "Name": "ITC Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "3.20%",
+    "Link": "/stocks/itc-ltd"
+  },
+  {
+    "Name": "Tata Steel Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "3.05%",
+    "Link": "/stocks/tata-steel-ltd"
+  },
+  {
+    "Name": "Torrent Power Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "3.03%",
+    "Link": "/stocks/torrent-power-ltd"
+  },
+  {
+    "Name": "Axis Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "2.69%",
+    "Link": "/stocks/axis-bank-ltd"
+  },
+  {
+    "Name": "State Bank of India",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "2.58%",
+    "Link": "/stocks/state-bank-of-india"
+  },
+  {
+    "Name": "Mahindra & Mahindra Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "2.58%",
+    "Link": "/stocks/mahindra-mahindra-ltd"
+  },
+  {
+    "Name": "Cipla Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "2.56%",
+    "Link": "/stocks/cipla-ltd"
+  },
+  {
+    "Name": "Kotak Mahindra Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "2.29%",
+    "Link": "/stocks/kotak-mahindra-bank-ltd"
+  },
+  {
+    "Name": "Hexaware Technologies Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Equity",
+    "Assets": "2.19%",
+    "Link": "/stocks/hexaware-technologies-limited"
+  },
+  {
+    "Name": "Bharti Airtel Ltd.",
+    "Sector": "Communication",
+    "Instrument": "Equity",
+    "Assets": "2.00%",
+    "Link": "/stocks/bharti-airtel-ltd"
+  },
+  {
+    "Name": "Tech Mahindra Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Equity",
+    "Assets": "1.99%",
+    "Link": "/stocks/tech-mahindra-ltd"
+  },
+  {
+    "Name": "Lupin Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.98%",
+    "Link": "/stocks/lupin-ltd"
+  },
+  {
+    "Name": "Tata Consultancy Services Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Equity",
+    "Assets": "1.82%",
+    "Link": "/stocks/tata-consultancy-services-ltd"
+  },
+  {
+    "Name": "Tata Motors Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "1.81%",
+    "Link": "/stocks/tata-motors-ltd"
+  },
+  {
+    "Name": "GAIL (India) Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "1.76%",
+    "Link": "/stocks/gail-india-ltd"
+  },
+  {
+    "Name": "Infosys Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Equity",
+    "Assets": "1.76%",
+    "Link": "/stocks/infosys-ltd"
+  },
+  {
+    "Name": "Cummins India Ltd.",
+    "Sector": "Capital Goods",
+    "Instrument": "Equity",
+    "Assets": "1.69%",
+    "Link": "/stocks/cummins-india-ltd"
+  },
+  {
+    "Name": "Mahindra & Mahindra Financial Services Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "1.68%",
+    "Link": "/stocks/mahindra-mahindra-financial-services-ltd"
+  },
+  {
+    "Name": "AIA Engineering Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "1.66%",
+    "Link": "/stocks/aia-engineering-ltd"
+  },
+  {
+    "Name": "HDFC Asset Management Company Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "1.56%",
+    "Link": "/stocks/hdfc-asset-management-company-ltd"
+  },
+  {
+    "Name": "Bharat Petroleum Corporation Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "1.52%",
+    "Link": "/stocks/bharat-petroleum-corporation-ltd"
+  },
+  {
+    "Name": "FSN E-Commerce Ventures Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "1.50%",
+    "Link": "/stocks/fsn-ecommerce-ventures-ltd"
+  },
+  {
+    "Name": "ICICI Prudential Life Insurance Company Ltd.",
+    "Sector": "Insurance",
+    "Instrument": "Equity",
+    "Assets": "1.49%",
+    "Link": "/stocks/icici-prudential-life-insurance-company-ltd"
+  },
+  {
+    "Name": "Oil And Natural Gas Corporation Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "1.46%",
+    "Link": "/stocks/oil-natural-gas-corporation-ltd"
+  },
+  {
+    "Name": "Wipro Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Equity",
+    "Assets": "1.38%",
+    "Link": "/stocks/wipro-ltd"
+  },
+  {
+    "Name": "Sundaram - Clayton Dcd Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "1.33%",
+    "Link": "/stocks/sundaramclayton-ltd-686"
+  },
+  {
+    "Name": "Petronet LNG Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "1.25%",
+    "Link": "/stocks/petronet-lng-ltd"
+  },
+  {
+    "Name": "Hindalco Industries Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "1.08%",
+    "Link": "/stocks/hindalco-industries-ltd"
+  },
+  {
+    "Name": "Fortis Healthcare Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.98%",
+    "Link": "/stocks/fortis-healthcare-ltd"
+  },
+  {
+    "Name": "Punjab National Bank",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.98%",
+    "Link": "/stocks/punjab-national-bank"
+  },
+  {
+    "Name": "United Breweries Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "0.92%",
+    "Link": "/stocks/united-breweries-ltd"
+  },
+  {
+    "Name": "Godrej Consumer Products Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "0.88%",
+    "Link": "/stocks/godrej-consumer-products-ltd"
+  },
+  {
+    "Name": "TVS Holdings Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "0.86%",
+    "Link": "/stocks/sundaramclayton-ltd"
+  },
+  {
+    "Name": "Mahindra Lifespace Developers Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.76%",
+    "Link": "/stocks/mahindra-lifespace-developers-ltd"
+  },
+  {
+    "Name": "Jubilant FoodWorks Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.75%",
+    "Link": "/stocks/jubilant-foodworks-ltd"
+  },
+  {
+    "Name": "Equitas Small Finance Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.72%",
+    "Link": "/stocks/equitas-small-finance-bank-ltd"
+  },
+  {
+    "Name": "Grindwell Norton Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "0.72%",
+    "Link": "/stocks/grindwell-norton-ltd"
+  },
+  {
+    "Name": "GE Vernova T&D India Ltd.",
+    "Sector": "Capital Goods",
+    "Instrument": "Equity",
+    "Assets": "0.72%",
+    "Link": "/stocks/ge-td-india-ltd"
+  },
+  {
+    "Name": "Rallis India Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "0.71%",
+    "Link": "/stocks/rallis-india-ltd"
+  },
+  {
+    "Name": "Shree Cement Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.67%",
+    "Link": "/stocks/shree-cement-ltd"
+  },
+  {
+    "Name": "Life Insurance Corporation of India",
+    "Sector": "Insurance",
+    "Instrument": "Equity",
+    "Assets": "0.66%",
+    "Link": "/stocks/life-insurance-corporation-of-india"
+  },
+  {
+    "Name": "Delhivery Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.65%",
+    "Link": "/stocks/delhivery-ltd"
+  },
+  {
+    "Name": "Sun Pharmaceutical Industries Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.61%",
+    "Link": "/stocks/sun-pharmaceutical-industries-ltd"
+  },
+  {
+    "Name": "Coforge Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Equity",
+    "Assets": "0.59%",
+    "Link": "/stocks/niit-technologies-ltd"
+  },
+  {
+    "Name": "Prism Johnson Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.56%",
+    "Link": "/stocks/prism-johnson-ltd"
+  },
+  {
+    "Name": "Chemplast Sanmar Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "0.54%",
+    "Link": "/stocks/chemplast-sanmar-ltd"
+  },
+  {
+    "Name": "Medplus Health Services Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.49%",
+    "Link": "/stocks/medplus-health-services-ltd"
+  },
+  {
+    "Name": "Heidelberg Cement India Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.45%",
+    "Link": "/stocks/heidelberg-cement-india-ltd"
+  },
+  {
+    "Name": "Berger Paints India Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "0.42%",
+    "Link": "/stocks/berger-paints-india-ltd"
+  },
+  {
+    "Name": "Swiggy Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.40%",
+    "Link": "/stocks/swiggy-ltd"
+  },
+  {
+    "Name": "Kajaria Ceramics Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.39%",
+    "Link": "/stocks/kajaria-ceramics-ltd"
+  },
+  {
+    "Name": "Larsen & Toubro Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.35%",
+    "Link": "/stocks/larsen-toubro-ltd"
+  },
+  {
+    "Name": "ACC Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.34%",
+    "Link": "/stocks/acc-ltd"
+  },
+  {
+    "Name": "Sanofi India Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.31%",
+    "Link": "/stocks/sanofi-india-ltd"
+  },
+  {
+    "Name": "Sanofi Consumer Healthcare India Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.26%",
+    "Link": "/stocks/sanofi-consumer-healthcare-india-ltd"
+  },
+  {
+    "Name": "Sheela Foam Ltd.",
+    "Sector": "Consumer Discretionary",
+    "Instrument": "Equity",
+    "Assets": "0.20%",
+    "Link": "/stocks/sheela-foam-ltd"
+  },
+  {
+    "Name": "Timken India Ltd.",
+    "Sector": "Capital Goods",
+    "Instrument": "Equity",
+    "Assets": "0.14%",
+    "Link": "/stocks/timken-india-ltd"
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.14%",
+    "Link": null
+  },
+  {
+    "Name": "LTIMindtree Ltd.",
+    "Sector": "Technology",
+    "Instrument": "Equity",
+    "Assets": "0.02%",
+    "Link": "/stocks/larsen-toubro-infotech-ltd"
+  },
+  {
+    "Name": "Manpasand Beverages Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "0.00%",
+    "Link": "/stocks/manpasand-beverages-ltd"
+  }
+]

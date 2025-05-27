@@ -1,0 +1,275 @@
+[
+  {
+    "Name": "Reliance Industries Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "10.44%",
+    "Link": "/stocks/reliance-industries-ltd"
+  },
+  {
+    "Name": "Aurobindo Pharma Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "8.36%",
+    "Link": "/stocks/aurobindo-pharma-ltd"
+  },
+  {
+    "Name": "IRB Infrastructure Developers Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "6.64%",
+    "Link": "/stocks/irb-infrastructure-developers-ltd"
+  },
+  {
+    "Name": "Marico Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "6.48%",
+    "Link": "/stocks/marico-ltd"
+  },
+  {
+    "Name": "Tata Communications Ltd.",
+    "Sector": "Communication",
+    "Instrument": "Equity",
+    "Assets": "6.28%",
+    "Link": "/stocks/tata-communications-ltd"
+  },
+  {
+    "Name": "Container Corporation Of India Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "6.28%",
+    "Link": "/stocks/container-corporation-of-india-ltd"
+  },
+  {
+    "Name": "Lloyds Metals & Energy Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "5.03%",
+    "Link": "/stocks/lloyds-metals-energy-ltd"
+  },
+  {
+    "Name": "GMR Airports Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "4.26%",
+    "Link": "/stocks/gmr-infrastructure-ltd"
+  },
+  {
+    "Name": "Lupin Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Futures",
+    "Assets": "3.68%",
+    "Link": null
+  },
+  {
+    "Name": "Linde India Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "3.46%",
+    "Link": "/stocks/linde-india-ltd"
+  },
+  {
+    "Name": "Indus Towers Ltd.",
+    "Sector": "Communication",
+    "Instrument": "Equity",
+    "Assets": "3.09%",
+    "Link": "/stocks/bharti-infratel-ltd"
+  },
+  {
+    "Name": "Bharat Forge Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "3.01%",
+    "Link": "/stocks/bharat-forge-ltd"
+  },
+  {
+    "Name": "MRF Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "2.90%",
+    "Link": "/stocks/mrf-ltd"
+  },
+  {
+    "Name": "JSW Infrastructure Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "2.21%",
+    "Link": "/stocks/jsw-infrastructure-ltd"
+  },
+  {
+    "Name": "Tata Power Company Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "2.05%",
+    "Link": "/stocks/tata-power-company-ltd"
+  },
+  {
+    "Name": "PB Fintech Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "1.92%",
+    "Link": "/stocks/pb-fintech-ltd"
+  },
+  {
+    "Name": "United Breweries Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "1.83%",
+    "Link": "/stocks/united-breweries-ltd"
+  },
+  {
+    "Name": "Cochin Shipyard Ltd.",
+    "Sector": "Capital Goods",
+    "Instrument": "Equity",
+    "Assets": "1.60%",
+    "Link": "/stocks/cochin-shipyard-ltd"
+  },
+  {
+    "Name": "Oil India Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Futures",
+    "Assets": "1.57%",
+    "Link": null
+  },
+  {
+    "Name": "Indian Railway Catering & Tourism Corporation Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "1.42%",
+    "Link": "/stocks/indian-railway-catering-tourism-corpn-ltd"
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "1.13%",
+    "Link": null
+  },
+  {
+    "Name": "Bharat Heavy Electricals Ltd.",
+    "Sector": "Capital Goods",
+    "Instrument": "Futures",
+    "Assets": "1.13%",
+    "Link": null
+  },
+  {
+    "Name": "Hindustan Petroleum Corporation Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "1.09%",
+    "Link": "/stocks/hindustan-petroleum-corporation-ltd"
+  },
+  {
+    "Name": "LIC Housing Finance Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.96%",
+    "Link": "/stocks/lic-housing-finance-ltd"
+  },
+  {
+    "Name": "Oil India Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "0.94%",
+    "Link": "/stocks/oil-india-ltd"
+  },
+  {
+    "Name": "Life Insurance Corporation of India",
+    "Sector": "Insurance",
+    "Instrument": "Equity",
+    "Assets": "0.90%",
+    "Link": "/stocks/life-insurance-corporation-of-india"
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.85%",
+    "Link": null
+  },
+  {
+    "Name": "Ipca Laboratories Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.84%",
+    "Link": "/stocks/ipca-laboratories-ltd"
+  },
+  {
+    "Name": "Aditya Birla Fashion and Retail Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.83%",
+    "Link": "/stocks/aditya-birla-fashion-and-retail-ltd"
+  },
+  {
+    "Name": "JIO Financial Services Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.68%",
+    "Link": "/stocks/jio-financial-services-ltd"
+  },
+  {
+    "Name": "NA",
+    "Sector": "NA",
+    "Instrument": "Equity",
+    "Assets": "0.66%",
+    "Link": null
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.57%",
+    "Link": null
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.56%",
+    "Link": null
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.56%",
+    "Link": null
+  },
+  {
+    "Name": "Colgate-Palmolive (India) Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "0.44%",
+    "Link": "/stocks/colgatepalmolive-india-ltd"
+  },
+  {
+    "Name": "Bharat Heavy Electricals Ltd.",
+    "Sector": "Capital Goods",
+    "Instrument": "Equity",
+    "Assets": "0.43%",
+    "Link": "/stocks/bharat-heavy-electricals-ltd"
+  },
+  {
+    "Name": "GAIL (India) Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Futures",
+    "Assets": "0.38%",
+    "Link": null
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.28%",
+    "Link": null
+  },
+  {
+    "Name": "LIC Housing Finance Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Futures",
+    "Assets": "0.24%",
+    "Link": null
+  }
+]

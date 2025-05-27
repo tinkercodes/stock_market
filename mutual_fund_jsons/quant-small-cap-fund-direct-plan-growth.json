@@ -1,0 +1,688 @@
+[
+  {
+    "Name": "Reliance Industries Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "10.48%",
+    "Link": "/stocks/reliance-industries-ltd"
+  },
+  {
+    "Name": "JIO Financial Services Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "5.23%",
+    "Link": "/stocks/jio-financial-services-ltd"
+  },
+  {
+    "Name": "Aegis Logistics Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "3.95%",
+    "Link": "/stocks/aegis-logistics-ltd"
+  },
+  {
+    "Name": "Aditya Birla Fashion and Retail Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "3.24%",
+    "Link": "/stocks/aditya-birla-fashion-and-retail-ltd"
+  },
+  {
+    "Name": "Poly Medicure Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "3.09%",
+    "Link": "/stocks/poly-medicure-ltd"
+  },
+  {
+    "Name": "Bikaji Foods International Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "3.01%",
+    "Link": "/stocks/bikaji-foods-international-ltd"
+  },
+  {
+    "Name": "RBL Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "2.90%",
+    "Link": "/stocks/rbl-bank-ltd"
+  },
+  {
+    "Name": "Sun TV Network Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "2.44%",
+    "Link": "/stocks/sun-tv-network-ltd"
+  },
+  {
+    "Name": "Adani Power Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "2.29%",
+    "Link": "/stocks/adani-power-ltd"
+  },
+  {
+    "Name": "HFCL Ltd.",
+    "Sector": "Communication",
+    "Instrument": "Equity",
+    "Assets": "2.29%",
+    "Link": "/stocks/himachal-futuristic-communications-ltd"
+  },
+  {
+    "Name": "Ventive Hospitality Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "2.28%",
+    "Link": "/stocks/ventive-hospitality-ltd"
+  },
+  {
+    "Name": "Adani Enterprises Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "2.17%",
+    "Link": "/stocks/adani-enterprises-ltd"
+  },
+  {
+    "Name": "Aster DM Healthcare Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "2.05%",
+    "Link": "/stocks/aster-dm-healthcare-ltd"
+  },
+  {
+    "Name": "Arvind Ltd.",
+    "Sector": "Textiles",
+    "Instrument": "Equity",
+    "Assets": "1.96%",
+    "Link": "/stocks/arvind-ltd"
+  },
+  {
+    "Name": "Bayer CropScience Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "1.70%",
+    "Link": "/stocks/bayer-cropscience-ltd"
+  },
+  {
+    "Name": "Piramal Enterprises Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.50%",
+    "Link": "/stocks/piramal-enterprises-ltd"
+  },
+  {
+    "Name": "Anand Rathi Wealth Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "1.44%",
+    "Link": "/stocks/anand-rathi-wealth-services-ltd"
+  },
+  {
+    "Name": "Pfizer Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.43%",
+    "Link": "/stocks/pfizer-ltd"
+  },
+  {
+    "Name": "Minda Corporation Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "1.35%",
+    "Link": "/stocks/minda-corporation-ltd"
+  },
+  {
+    "Name": "Just Dial Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "1.35%",
+    "Link": "/stocks/just-dial-ltd"
+  },
+  {
+    "Name": "Welspun Corp Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "1.26%",
+    "Link": "/stocks/welspun-corp-ltd"
+  },
+  {
+    "Name": "Keystone Realtors Ltd",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "1.25%",
+    "Link": "/stocks/keystone-realtors-ltd"
+  },
+  {
+    "Name": "Sequent Scientific Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.24%",
+    "Link": "/stocks/sequent-scientific-ltd"
+  },
+  {
+    "Name": "NCC Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "1.23%",
+    "Link": "/stocks/ncc-ltd"
+  },
+  {
+    "Name": "Welspun Enterprises Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "1.22%",
+    "Link": "/stocks/welspun-enterprises-ltd"
+  },
+  {
+    "Name": "The Karnataka Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "1.10%",
+    "Link": "/stocks/the-karnataka-bank-ltd"
+  },
+  {
+    "Name": "Orchid Pharma Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.06%",
+    "Link": "/stocks/orchid-pharma-ltd"
+  },
+  {
+    "Name": "Afcons Infrastructure Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "1.05%",
+    "Link": "/stocks/afcons-infrastructure-ltd"
+  },
+  {
+    "Name": "Onesource Specialty Pharma Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.04%",
+    "Link": "/stocks/onesource-specialty-pharma-ltd"
+  },
+  {
+    "Name": "Zydus Wellness Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "1.03%",
+    "Link": "/stocks/zydus-wellness-ltd"
+  },
+  {
+    "Name": "Usha Martin Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "1.03%",
+    "Link": "/stocks/usha-martin-ltd"
+  },
+  {
+    "Name": "Jubilant Pharmova Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.01%",
+    "Link": "/stocks/jubilant-life-sciences-ltd"
+  },
+  {
+    "Name": "Bata India Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "0.99%",
+    "Link": "/stocks/bata-india-ltd"
+  },
+  {
+    "Name": "Oil And Natural Gas Corporation Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "0.93%",
+    "Link": "/stocks/oil-natural-gas-corporation-ltd"
+  },
+  {
+    "Name": "E.I.D. - Parry (India) Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "0.85%",
+    "Link": "/stocks/eid-parry-india-ltd"
+  },
+  {
+    "Name": "Strides Pharma Science Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.83%",
+    "Link": "/stocks/strides-pharma-science-ltd"
+  },
+  {
+    "Name": "NBCC (India) Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.79%",
+    "Link": "/stocks/nbcc-india-ltd"
+  },
+  {
+    "Name": "Oil And Natural Gas Corporation Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Eq. Der.",
+    "Assets": "0.78%",
+    "Link": null
+  },
+  {
+    "Name": "Samvardhana Motherson International Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "0.77%",
+    "Link": "/stocks/motherson-sumi-systems-ltd"
+  },
+  {
+    "Name": "India Shelter Finance Corporation Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.72%",
+    "Link": "/stocks/india-shelter-finance-corporation-ltd"
+  },
+  {
+    "Name": "Anupam Rasayan India Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "0.69%",
+    "Link": "/stocks/anupam-rasayan-india-ltd"
+  },
+  {
+    "Name": "Juniper Hotels Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.65%",
+    "Link": "/stocks/juniper-hotels-ltd"
+  },
+  {
+    "Name": "JM Financial Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.65%",
+    "Link": "/stocks/jm-financial-ltd"
+  },
+  {
+    "Name": "Apeejay Surrendra Park Hotels Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.61%",
+    "Link": "/stocks/apeejay-surrendra-park-hotels-ltd"
+  },
+  {
+    "Name": "Delhivery Ltd.",
+    "Sector": "Services",
+    "Instrument": "Eq. Der.",
+    "Assets": "0.58%",
+    "Link": null
+  },
+  {
+    "Name": "EPL Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "0.57%",
+    "Link": "/stocks/essel-propack-ltd"
+  },
+  {
+    "Name": "Gujarat State Fertilizers & Chemicals Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "0.54%",
+    "Link": "/stocks/gujarat-state-fertilizers-chemicals-ltd"
+  },
+  {
+    "Name": "Himadri Speciality Chemical Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "0.50%",
+    "Link": "/stocks/himadri-speciality-chemical-ltd"
+  },
+  {
+    "Name": "Aadhar Housing Finance Ltd",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.48%",
+    "Link": "/stocks/aadhar-housing-finance-ltd"
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.48%",
+    "Link": null
+  },
+  {
+    "Name": "Jana Small Finance Bank Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.48%",
+    "Link": "/stocks/jana-small-finance-bank-ltd"
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.46%",
+    "Link": null
+  },
+  {
+    "Name": "Alivus Life Sciences Ltd",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.45%",
+    "Link": "/stocks/glenmark-life-sciences-ltd"
+  },
+  {
+    "Name": "Sula Vineyards Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "0.45%",
+    "Link": "/stocks/sula-vineyards-ltd"
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.44%",
+    "Link": null
+  },
+  {
+    "Name": "TVS Srichakra Ltd.",
+    "Sector": "Automobile",
+    "Instrument": "Equity",
+    "Assets": "0.41%",
+    "Link": "/stocks/tvs-srichakra-ltd"
+  },
+  {
+    "Name": "Balrampur Chini Mills Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "0.40%",
+    "Link": "/stocks/balrampur-chini-mills-ltd"
+  },
+  {
+    "Name": "Delhivery Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.39%",
+    "Link": "/stocks/delhivery-ltd"
+  },
+  {
+    "Name": "Indoco Remedies Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.37%",
+    "Link": "/stocks/indoco-remedies-ltd"
+  },
+  {
+    "Name": "Nitin Spinners Ltd.",
+    "Sector": "Textiles",
+    "Instrument": "Equity",
+    "Assets": "0.37%",
+    "Link": "/stocks/nitin-spinners-ltd"
+  },
+  {
+    "Name": "Indraprastha Medical Corporation Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.36%",
+    "Link": "/stocks/indraprastha-medical-corporation-ltd"
+  },
+  {
+    "Name": "Welspun Living Ltd.",
+    "Sector": "Consumer Discretionary",
+    "Instrument": "Equity",
+    "Assets": "0.36%",
+    "Link": "/stocks/welspun-india-ltd"
+  },
+  {
+    "Name": "Man Infraconstruction Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.35%",
+    "Link": "/stocks/man-infraconstruction-ltd"
+  },
+  {
+    "Name": "Thyrocare Technologies Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.35%",
+    "Link": "/stocks/thyrocare-technologies-ltd"
+  },
+  {
+    "Name": "Vishnu Prakash R Punglia Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.33%",
+    "Link": "/stocks/vishnu-prakash-r-punglia-ltd"
+  },
+  {
+    "Name": "Maharashtra Seamless Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "0.33%",
+    "Link": "/stocks/maharashtra-seamless-ltd"
+  },
+  {
+    "Name": "Embassy Developments Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.30%",
+    "Link": "/stocks/indiabulls-real-estate-ltd"
+  },
+  {
+    "Name": "Shipping Corporation Of India Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.30%",
+    "Link": "/stocks/shipping-corporation-of-india-ltd"
+  },
+  {
+    "Name": "BASF India Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "0.29%",
+    "Link": "/stocks/basf-india-ltd"
+  },
+  {
+    "Name": "Capacit'e Infraprojects Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.27%",
+    "Link": "/stocks/capacite-infraprojects-ltd"
+  },
+  {
+    "Name": "Castrol India Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "0.23%",
+    "Link": "/stocks/castrol-india-ltd"
+  },
+  {
+    "Name": "Sandur Manganese & Iron Ores Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "0.23%",
+    "Link": "/stocks/sandur-manganese-iron-ores-ltd"
+  },
+  {
+    "Name": "Life Insurance Corporation of India",
+    "Sector": "Insurance",
+    "Instrument": "Equity",
+    "Assets": "0.22%",
+    "Link": "/stocks/life-insurance-corporation-of-india"
+  },
+  {
+    "Name": "Exicom Tele-Systems Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Equity",
+    "Assets": "0.22%",
+    "Link": "/stocks/exicom-telesystems-ltd"
+  },
+  {
+    "Name": "GAIL (India) Ltd.",
+    "Sector": "Energy",
+    "Instrument": "Eq. Der.",
+    "Assets": "0.21%",
+    "Link": null
+  },
+  {
+    "Name": "Orissa Minerals Development Company Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "0.21%",
+    "Link": "/stocks/orissa-minerals-development-company-ltd"
+  },
+  {
+    "Name": "Oriental Hotels Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.19%",
+    "Link": "/stocks/oriental-hotels-ltd"
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.19%",
+    "Link": null
+  },
+  {
+    "Name": "Rishabh Instruments Ltd.",
+    "Sector": "Capital Goods",
+    "Instrument": "Equity",
+    "Assets": "0.19%",
+    "Link": "/stocks/rishabh-instruments-ltd"
+  },
+  {
+    "Name": "MOIL Ltd.",
+    "Sector": "Metals & Mining",
+    "Instrument": "Equity",
+    "Assets": "0.15%",
+    "Link": "/stocks/moil-ltd"
+  },
+  {
+    "Name": "Vardhman Textiles Ltd.",
+    "Sector": "Textiles",
+    "Instrument": "Equity",
+    "Assets": "0.15%",
+    "Link": "/stocks/vardhman-textiles-ltd"
+  },
+  {
+    "Name": "NBCC (India) Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Eq. Der.",
+    "Assets": "0.15%",
+    "Link": null
+  },
+  {
+    "Name": "Sanofi India Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.14%",
+    "Link": "/stocks/sanofi-india-ltd"
+  },
+  {
+    "Name": "Taj GVK Hotels & Resorts Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "0.14%",
+    "Link": "/stocks/taj-gvk-hotels-resorts-ltd"
+  },
+  {
+    "Name": "Prime Securities Ltd.",
+    "Sector": "Financial",
+    "Instrument": "Equity",
+    "Assets": "0.14%",
+    "Link": "/stocks/prime-securities-ltd"
+  },
+  {
+    "Name": "SMS Pharmaceuticals Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "0.14%",
+    "Link": "/stocks/sms-pharmaceuticals-ltd"
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.13%",
+    "Link": null
+  },
+  {
+    "Name": "Reserve Bank of India",
+    "Sector": "Financial",
+    "Instrument": "T-Bills",
+    "Assets": "0.13%",
+    "Link": null
+  },
+  {
+    "Name": "Indian Hume Pipe Company Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.11%",
+    "Link": "/stocks/indian-hume-pipe-company-ltd"
+  },
+  {
+    "Name": "Sai Silks (Kalamandir) Ltd.",
+    "Sector": "Textiles",
+    "Instrument": "Equity",
+    "Assets": "0.10%",
+    "Link": "/stocks/sai-silks-kalamandir-ltd"
+  },
+  {
+    "Name": "Best Agrolife Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "0.07%",
+    "Link": "/stocks/sahyog-multibase-ltd"
+  },
+  {
+    "Name": "HP Adhesives Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "0.05%",
+    "Link": "/stocks/hp-adhesives-ltd"
+  },
+  {
+    "Name": "Emami Ltd.",
+    "Sector": "Consumer Staples",
+    "Instrument": "Equity",
+    "Assets": "0.05%",
+    "Link": "/stocks/emami-ltd"
+  },
+  {
+    "Name": "Primo Chemicals Ltd.",
+    "Sector": "Chemicals",
+    "Instrument": "Equity",
+    "Assets": "0.04%",
+    "Link": "/stocks/punjab-alkalies-chemicals-ltd"
+  },
+  {
+    "Name": "Borosil Renewables Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.04%",
+    "Link": "/stocks/borosil-glass-works-ltd"
+  },
+  {
+    "Name": "Stanley Lifestyles Ltd.",
+    "Sector": "Consumer Discretionary",
+    "Instrument": "Equity",
+    "Assets": "0.04%",
+    "Link": "/stocks/stanley-lifestyles-ltd"
+  },
+  {
+    "Name": "Om Infra Ltd.",
+    "Sector": "Construction",
+    "Instrument": "Equity",
+    "Assets": "0.01%",
+    "Link": "/stocks/om-metals-infraprojects-ltd"
+  },
+  {
+    "Name": "Quant Gilt Fund Direct - Growth",
+    "Sector": "NA",
+    "Instrument": "Mutual Fund",
+    "Assets": "0.00%",
+    "Link": null
+  }
+]

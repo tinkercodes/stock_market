@@ -1,0 +1,219 @@
+[
+  {
+    "Name": "Sun Pharmaceutical Industries Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "12.26%",
+    "Link": "/stocks/sun-pharmaceutical-industries-ltd"
+  },
+  {
+    "Name": "Divi's Laboratories Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "9.58%",
+    "Link": "/stocks/divis-laboratories-ltd"
+  },
+  {
+    "Name": "Cipla Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "7.58%",
+    "Link": "/stocks/cipla-ltd"
+  },
+  {
+    "Name": "Lupin Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "5.59%",
+    "Link": "/stocks/lupin-ltd"
+  },
+  {
+    "Name": "Max Healthcare Institute Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "4.82%",
+    "Link": "/stocks/max-healthcare-institute-ltd"
+  },
+  {
+    "Name": "Krishna Institute of Medical Sciences Ltd",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "3.88%",
+    "Link": "/stocks/krishna-institute-of-medical-sciences-ltd"
+  },
+  {
+    "Name": "Torrent Pharmaceuticals Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "3.66%",
+    "Link": "/stocks/torrent-pharmaceuticals-ltd"
+  },
+  {
+    "Name": "Aster DM Healthcare Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "3.62%",
+    "Link": "/stocks/aster-dm-healthcare-ltd"
+  },
+  {
+    "Name": "Aurobindo Pharma Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "3.51%",
+    "Link": "/stocks/aurobindo-pharma-ltd"
+  },
+  {
+    "Name": "Glenmark Pharmaceuticals Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "3.50%",
+    "Link": "/stocks/glenmark-pharmaceuticals-ltd"
+  },
+  {
+    "Name": "Ipca Laboratories Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "3.48%",
+    "Link": "/stocks/ipca-laboratories-ltd"
+  },
+  {
+    "Name": "Eris Lifesciences Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "3.28%",
+    "Link": "/stocks/eris-lifesciences-ltd"
+  },
+  {
+    "Name": "Alkem Laboratories Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "2.70%",
+    "Link": "/stocks/alkem-laboratories-ltd"
+  },
+  {
+    "Name": "Wockhardt Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "2.67%",
+    "Link": "/stocks/wockhardt-ltd"
+  },
+  {
+    "Name": "Vijaya Diagnostic Centre Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "2.56%",
+    "Link": "/stocks/vijaya-diagnostic-centre-ltd"
+  },
+  {
+    "Name": "Metropolis Healthcare Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "2.51%",
+    "Link": "/stocks/metropolis-healthcare-ltd"
+  },
+  {
+    "Name": "Dr. Reddy's Laboratories Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "2.25%",
+    "Link": "/stocks/dr-reddys-laboratories-ltd"
+  },
+  {
+    "Name": "Piramal Pharma Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "2.22%",
+    "Link": "/stocks/piramal-pharma-ltd"
+  },
+  {
+    "Name": "Gland Pharma Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "2.18%",
+    "Link": "/stocks/gland-pharma-ltd"
+  },
+  {
+    "Name": "Ami Organics Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "2.06%",
+    "Link": "/stocks/ami-organics-ltd"
+  },
+  {
+    "Name": "Fortis Healthcare Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.61%",
+    "Link": "/stocks/fortis-healthcare-ltd"
+  },
+  {
+    "Name": "Bajaj Healthcare Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.58%",
+    "Link": "/stocks/bajaj-healthcare-ltd"
+  },
+  {
+    "Name": "Laxmi Dental Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.51%",
+    "Link": "/stocks/laxmi-dental-ltd"
+  },
+  {
+    "Name": "Cohance Lifesciences Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.49%",
+    "Link": "/stocks/suven-pharmaceuticals-ltd"
+  },
+  {
+    "Name": "Dr. Lal Pathlabs Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.38%",
+    "Link": "/stocks/dr-lal-pathlabs-ltd"
+  },
+  {
+    "Name": "Jubilant Pharmova Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.29%",
+    "Link": "/stocks/jubilant-life-sciences-ltd"
+  },
+  {
+    "Name": "Pfizer Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.27%",
+    "Link": "/stocks/pfizer-ltd"
+  },
+  {
+    "Name": "Ajanta Pharma Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.26%",
+    "Link": "/stocks/ajanta-pharma-ltd"
+  },
+  {
+    "Name": "Sai Life Sciences Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.06%",
+    "Link": "/stocks/sai-life-sciences-ltd"
+  },
+  {
+    "Name": "Zydus Lifesciences Ltd.",
+    "Sector": "Healthcare",
+    "Instrument": "Equity",
+    "Assets": "1.05%",
+    "Link": "/stocks/cadila-healthcare-ltd"
+  },
+  {
+    "Name": "Medi Assist Healthcare Services Ltd.",
+    "Sector": "Services",
+    "Instrument": "Equity",
+    "Assets": "1.00%",
+    "Link": "/stocks/medi-assist-healthcare-services-ltd"
+  }
+]

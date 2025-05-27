@@ -1,0 +1,281 @@
+{
+  "sun-pharmaceutical-industries-ltd": {
+    "name": "Sun Pharmaceutical Industries Ltd.",
+    "Link": "/stocks/sun-pharmaceutical-industries-ltd",
+    "Assets": "12.26%",
+    "price": "₹1,683.40",
+    "absolute_change": "+7.30",
+    "percentage_change": "(0.44%)",
+    "time_frame": "1D"
+  },
+  "divis-laboratories-ltd": {
+    "name": "Divi's Laboratories Ltd.",
+    "Link": "/stocks/divis-laboratories-ltd",
+    "Assets": "9.58%",
+    "price": "₹6,698.00",
+    "absolute_change": "-39.00",
+    "percentage_change": "(0.58%)",
+    "time_frame": "1D"
+  },
+  "cipla-ltd": {
+    "name": "Cipla Ltd.",
+    "Link": "/stocks/cipla-ltd",
+    "Assets": "7.58%",
+    "price": "₹1,480.50",
+    "absolute_change": "-3.70",
+    "percentage_change": "(0.25%)",
+    "time_frame": "1D"
+  },
+  "lupin-ltd": {
+    "name": "Lupin Ltd.",
+    "Link": "/stocks/lupin-ltd",
+    "Assets": "5.59%",
+    "price": "₹1,970.20",
+    "absolute_change": "-17.10",
+    "percentage_change": "(0.86%)",
+    "time_frame": "1D"
+  },
+  "max-healthcare-institute-ltd": {
+    "name": "Max Healthcare Institute Ltd.",
+    "Link": "/stocks/max-healthcare-institute-ltd",
+    "Assets": "4.82%",
+    "price": "₹1,159.40",
+    "absolute_change": "-14.70",
+    "percentage_change": "(1.25%)",
+    "time_frame": "1D"
+  },
+  "krishna-institute-of-medical-sciences-ltd": {
+    "name": "Krishna Institute of Medical Sciences Ltd",
+    "Link": "/stocks/krishna-institute-of-medical-sciences-ltd",
+    "Assets": "3.88%",
+    "price": "₹654.20",
+    "absolute_change": "-16.65",
+    "percentage_change": "(2.48%)",
+    "time_frame": "1D"
+  },
+  "torrent-pharmaceuticals-ltd": {
+    "name": "Torrent Pharmaceuticals Ltd.",
+    "Link": "/stocks/torrent-pharmaceuticals-ltd",
+    "Assets": "3.66%",
+    "price": "₹3,175.70",
+    "absolute_change": "-11.70",
+    "percentage_change": "(0.37%)",
+    "time_frame": "1D"
+  },
+  "aster-dm-healthcare-ltd": {
+    "name": "Aster DM Healthcare Ltd.",
+    "Link": "/stocks/aster-dm-healthcare-ltd",
+    "Assets": "3.62%",
+    "price": "₹548.90",
+    "absolute_change": "+2.50",
+    "percentage_change": "(0.46%)",
+    "time_frame": "1D"
+  },
+  "aurobindo-pharma-ltd": {
+    "name": "Aurobindo Pharma Ltd.",
+    "Link": "/stocks/aurobindo-pharma-ltd",
+    "Assets": "3.51%",
+    "price": "₹1,191.20",
+    "absolute_change": "+10.30",
+    "percentage_change": "(0.87%)",
+    "time_frame": "1D"
+  },
+  "glenmark-pharmaceuticals-ltd": {
+    "name": "Glenmark Pharmaceuticals Ltd.",
+    "Link": "/stocks/glenmark-pharmaceuticals-ltd",
+    "Assets": "3.50%",
+    "price": "₹1,385.00",
+    "absolute_change": "-5.10",
+    "percentage_change": "(0.37%)",
+    "time_frame": "1D"
+  },
+  "ipca-laboratories-ltd": {
+    "name": "Ipca Laboratories Ltd.",
+    "Link": "/stocks/ipca-laboratories-ltd",
+    "Assets": "3.48%",
+    "price": "₹1,459.60",
+    "absolute_change": "-6.10",
+    "percentage_change": "(0.42%)",
+    "time_frame": "1D"
+  },
+  "eris-lifesciences-ltd": {
+    "name": "Eris Lifesciences Ltd.",
+    "Link": "/stocks/eris-lifesciences-ltd",
+    "Assets": "3.28%",
+    "price": "₹1,570.50",
+    "absolute_change": "+29.10",
+    "percentage_change": "(1.89%)",
+    "time_frame": "1D"
+  },
+  "alkem-laboratories-ltd": {
+    "name": "Alkem Laboratories Ltd.",
+    "Link": "/stocks/alkem-laboratories-ltd",
+    "Assets": "2.70%",
+    "price": "₹5,266.00",
+    "absolute_change": "+17.00",
+    "percentage_change": "(0.32%)",
+    "time_frame": "1D"
+  },
+  "wockhardt-ltd": {
+    "name": "Wockhardt Ltd.",
+    "Link": "/stocks/wockhardt-ltd",
+    "Assets": "2.67%",
+    "price": "₹1,351.80",
+    "absolute_change": "+17.20",
+    "percentage_change": "(1.29%)",
+    "time_frame": "1D"
+  },
+  "vijaya-diagnostic-centre-ltd": {
+    "name": "Vijaya Diagnostic Centre Ltd.",
+    "Link": "/stocks/vijaya-diagnostic-centre-ltd",
+    "Assets": "2.56%",
+    "price": "₹955.20",
+    "absolute_change": "+19.40",
+    "percentage_change": "(2.07%)",
+    "time_frame": "1D"
+  },
+  "metropolis-healthcare-ltd": {
+    "name": "Metropolis Healthcare Ltd.",
+    "Link": "/stocks/metropolis-healthcare-ltd",
+    "Assets": "2.51%",
+    "price": "₹1,669.80",
+    "absolute_change": "+11.40",
+    "percentage_change": "(0.69%)",
+    "time_frame": "1D"
+  },
+  "dr-reddys-laboratories-ltd": {
+    "name": "Dr. Reddy's Laboratories Ltd.",
+    "Link": "/stocks/dr-reddys-laboratories-ltd",
+    "Assets": "2.25%",
+    "price": "₹1,243.20",
+    "absolute_change": "+2.30",
+    "percentage_change": "(0.19%)",
+    "time_frame": "1D"
+  },
+  "piramal-pharma-ltd": {
+    "name": "Piramal Pharma Ltd.",
+    "Link": "/stocks/piramal-pharma-ltd",
+    "Assets": "2.22%",
+    "price": "₹203.33",
+    "absolute_change": "-1.94",
+    "percentage_change": "(0.95%)",
+    "time_frame": "1D"
+  },
+  "gland-pharma-ltd": {
+    "name": "Gland Pharma Ltd.",
+    "Link": "/stocks/gland-pharma-ltd",
+    "Assets": "2.18%",
+    "price": "₹1,527.90",
+    "absolute_change": "+0.30",
+    "percentage_change": "(0.02%)",
+    "time_frame": "1D"
+  },
+  "ami-organics-ltd": {
+    "name": "Ami Organics Ltd.",
+    "Link": "/stocks/ami-organics-ltd",
+    "Assets": "2.06%",
+    "price": "₹1,167.40",
+    "absolute_change": "-23.80",
+    "percentage_change": "(2.00%)",
+    "time_frame": "1D"
+  },
+  "fortis-healthcare-ltd": {
+    "name": "Fortis Healthcare Ltd.",
+    "Link": "/stocks/fortis-healthcare-ltd",
+    "Assets": "1.61%",
+    "price": "₹704.95",
+    "absolute_change": "-3.25",
+    "percentage_change": "(0.46%)",
+    "time_frame": "1D"
+  },
+  "bajaj-healthcare-ltd": {
+    "name": "Bajaj Healthcare Ltd.",
+    "Link": "/stocks/bajaj-healthcare-ltd",
+    "Assets": "1.58%",
+    "price": "₹561.05",
+    "absolute_change": "-41.75",
+    "percentage_change": "(6.93%)",
+    "time_frame": "1D"
+  },
+  "laxmi-dental-ltd": {
+    "name": "Laxmi Dental Ltd.",
+    "Link": "/stocks/laxmi-dental-ltd",
+    "Assets": "1.51%",
+    "price": "₹381.15",
+    "absolute_change": "-16.50",
+    "percentage_change": "(4.15%)",
+    "time_frame": "1D"
+  },
+  "suven-pharmaceuticals-ltd": {
+    "name": "Cohance Lifesciences Ltd.",
+    "Link": "/stocks/suven-pharmaceuticals-ltd",
+    "Assets": "1.49%",
+    "price": "₹1,092.20",
+    "absolute_change": "+0.10",
+    "percentage_change": "(0.01%)",
+    "time_frame": "1D"
+  },
+  "dr-lal-pathlabs-ltd": {
+    "name": "Dr. Lal Pathlabs Ltd.",
+    "Link": "/stocks/dr-lal-pathlabs-ltd",
+    "Assets": "1.38%",
+    "price": "₹2,848.80",
+    "absolute_change": "-15.10",
+    "percentage_change": "(0.53%)",
+    "time_frame": "1D"
+  },
+  "jubilant-life-sciences-ltd": {
+    "name": "Jubilant Pharmova Ltd.",
+    "Link": "/stocks/jubilant-life-sciences-ltd",
+    "Assets": "1.29%",
+    "price": "₹1,133.10",
+    "absolute_change": "+11.65",
+    "percentage_change": "(1.04%)",
+    "time_frame": "1D"
+  },
+  "pfizer-ltd": {
+    "name": "Pfizer Ltd.",
+    "Link": "/stocks/pfizer-ltd",
+    "Assets": "1.27%",
+    "price": "₹5,417.60",
+    "absolute_change": "+235.00",
+    "percentage_change": "(4.53%)",
+    "time_frame": "1D"
+  },
+  "ajanta-pharma-ltd": {
+    "name": "Ajanta Pharma Ltd.",
+    "Link": "/stocks/ajanta-pharma-ltd",
+    "Assets": "1.26%",
+    "price": "₹2,590.70",
+    "absolute_change": "-1.20",
+    "percentage_change": "(0.05%)",
+    "time_frame": "1D"
+  },
+  "sai-life-sciences-ltd": {
+    "name": "Sai Life Sciences Ltd.",
+    "Link": "/stocks/sai-life-sciences-ltd",
+    "Assets": "1.06%",
+    "price": "₹728.15",
+    "absolute_change": "-7.30",
+    "percentage_change": "(0.99%)",
+    "time_frame": "1D"
+  },
+  "cadila-healthcare-ltd": {
+    "name": "Zydus Lifesciences Ltd.",
+    "Link": "/stocks/cadila-healthcare-ltd",
+    "Assets": "1.05%",
+    "price": "₹918.10",
+    "absolute_change": "+5.25",
+    "percentage_change": "(0.58%)",
+    "time_frame": "1D"
+  },
+  "medi-assist-healthcare-services-ltd": {
+    "name": "Medi Assist Healthcare Services Ltd.",
+    "Link": "/stocks/medi-assist-healthcare-services-ltd",
+    "Assets": "1.00%",
+    "price": "₹513.25",
+    "absolute_change": "+6.30",
+    "percentage_change": "(1.24%)",
+    "time_frame": "1D"
+  }
+}
