@@ -3,7 +3,8 @@ name: Generate Mutual Fund Live Report
 # This workflow runs a Python script to generate a mutual fund live report every weekday at 11 AM UTC.
 
 on:
-  schedule:
+  workflow_dispatch:   # Manual trigger
+  schedule:            # Scheduled trigger (11 AM UTC, Mon–Fri)
     - cron: '0 11 * * 1-5'
 
 jobs:
