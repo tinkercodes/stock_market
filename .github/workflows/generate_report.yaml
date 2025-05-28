@@ -4,8 +4,8 @@ name: Generate Mutual Fund Live Report
 
 on:
   workflow_dispatch:   # Manual trigger
-  schedule:            # Scheduled trigger (11 AM UTC, Mon–Fri)
-    - cron: '0 11 * * 1-5'
+  schedule:            
+    - cron: '30 5 * * 1-5'
 
 permissions:
   contents: write 

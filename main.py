@@ -131,6 +131,7 @@ def calculate_mf_percentage_change(mfs: list[str] = None):
     with open("mf_stocks.json", "r") as jsonfile:
         stocks = json.load(jsonfile)
 
+    table=[]
     for mf in mfs:
         mf_name = mf.split("/")[-1]
         json_path = os.path.join("mutual_fund_jsons", f"{mf_name}.json")
@@ -139,7 +140,7 @@ def calculate_mf_percentage_change(mfs: list[str] = None):
 
         with open(json_path, "r") as f:
             mf_data = json.load(f)
-        table=[]
+        
         mf_percentage_change = 0
         for stock in mf_data:
             if stock["Link"]:
@@ -164,7 +165,7 @@ def calculate_mf_percentage_change(mfs: list[str] = None):
     
 
 if __name__ == "__main__":
-    with open("mutual_fund", "r") as f:
+    with open("mutual_funds", "r") as f:
         mfs = [line.strip() for line in f if line.strip()]
     main(mfs)
     calculate_mf_percentage_change(mfs)
