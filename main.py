@@ -86,8 +86,10 @@ def scrape_MF_web_page(url: str) -> tuple[str, str]:
                 "Assets": assets,
                 "Link": link
             })
+
             if instrument=="Equity" and float(assets.replace("%",""))>0 and link: 
                 stocks += ({"name": name, "Link": link},)
+
 
         mf_name = url.split("/")[-1]
         json_path = os.path.join("mutual_fund_jsons", f"{mf_name}.json")
@@ -118,7 +120,7 @@ def main(mfs: list[str] = None):
         print(f"Total stocks to track: {len(all_stocks)}")
 
     print("Starting async tasks for stock data scraping...")
-    asyncio.run(run_stock_tasks(list(all_stocks)))  # Call async tasks here
+    asyncio.run(run_stock_tasks(list(all_stocks)[:10]))  # Call async tasks here
     print("Async tasks completed, saving results...")
     # Save all stocks to a JSON file
     stocks_dict = {stock["Link"].split("/")[-1]: stock for stock in all_stocks}
@@ -155,6 +157,7 @@ def calculate_mf_percentage_change(mfs: list[str] = None):
     headers = ["Mutual Fund", "Percentage Change"]
 
     print("================Report Summary================")
+
     print()
     print(tabulate(table, headers=headers, tablefmt="fancy_grid"))
     with open("report_summary.md", "w") as f:
@@ -165,7 +168,7 @@ def calculate_mf_percentage_change(mfs: list[str] = None):
     
 
 if __name__ == "__main__":
-    with open("mutual_funds", "r") as f:
+    with open("mutual_fund", "r") as f:
         mfs = [line.strip() for line in f if line.strip()]
     main(mfs)
     calculate_mf_percentage_change(mfs)

@@ -14,12 +14,20 @@ async def get_element_text(context, url: str, idx: int) -> tuple[dict, int]:
             result = result.split('\n')
             result += result.pop(-1).split()
             stock_data = dict(zip(['price', 'absolute_change', 'percentage_change', 'time_frame'], result))
+        
+        # Extract additional data point
+        elements = await page.query_selector_all("td.aboutCompany_tdValue__Ioaru.right-align.bodyLargeHeavy")
+        print(f"Elements found: {elements}")
+        if len(elements):
+            additional_data = await elements[2].inner_text()
+            stock_data["symbol"] = additional_data
+
     except Exception as e:
         print(f"[!] Error scraping {url}: {e}")
     finally:
         await page.close()
-        # print(f"Processed: {url} \nResult: {stock_data}")
         return stock_data, idx
+
 
 
 # Optional: if you want to test this module standalone

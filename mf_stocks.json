@@ -1,550 +1,176 @@
 {
-  "hdfc-bank-ltd": {
-    "name": "HDFC Bank Ltd.",
-    "Link": "/stocks/hdfc-bank-ltd",
-    "price": "₹1,926.30",
-    "absolute_change": "-13.90",
-    "percentage_change": "(0.72%)",
-    "time_frame": "1D"
-  },
-  "reliance-industries-ltd": {
-    "name": "Reliance Industries Ltd.",
-    "Link": "/stocks/reliance-industries-ltd",
-    "price": "₹1,422.10",
-    "absolute_change": "-12.70",
-    "percentage_change": "(0.89%)",
-    "time_frame": "1D"
-  },
-  "icici-bank-ltd": {
-    "name": "ICICI Bank Ltd.",
-    "Link": "/stocks/icici-bank-ltd",
-    "price": "₹1,446.40",
-    "absolute_change": "-14.20",
-    "percentage_change": "(0.97%)",
-    "time_frame": "1D"
-  },
-  "axis-bank-ltd": {
-    "name": "Axis Bank Ltd.",
-    "Link": "/stocks/axis-bank-ltd",
-    "price": "₹1,195.60",
-    "absolute_change": "-19.60",
-    "percentage_change": "(1.61%)",
-    "time_frame": "1D"
-  },
-  "larsen-toubro-ltd": {
-    "name": "Larsen & Toubro Ltd.",
-    "Link": "/stocks/larsen-toubro-ltd",
-    "price": "₹3,640.00",
-    "absolute_change": "-8.70",
-    "percentage_change": "(0.24%)",
-    "time_frame": "1D"
-  },
-  "state-bank-of-india": {
-    "name": "State Bank of India",
-    "Link": "/stocks/state-bank-of-india",
-    "price": "₹793.70",
-    "absolute_change": "-0.70",
-    "percentage_change": "(0.09%)",
-    "time_frame": "1D"
-  },
-  "bajaj-finance-ltd": {
-    "name": "Bajaj Finance Ltd.",
-    "Link": "/stocks/bajaj-finance-ltd",
-    "price": "₹9,171.00",
-    "absolute_change": "-98.50",
-    "percentage_change": "(1.06%)",
-    "time_frame": "1D"
-  },
-  "infosys-ltd": {
-    "name": "Infosys Ltd.",
-    "Link": "/stocks/infosys-ltd",
-    "price": "₹1,570.10",
-    "absolute_change": "-10.40",
-    "percentage_change": "(0.66%)",
-    "time_frame": "1D"
-  },
-  "ntpc-ltd": {
-    "name": "NTPC Ltd.",
-    "Link": "/stocks/ntpc-ltd",
-    "price": "₹338.55",
-    "absolute_change": "-4.95",
-    "percentage_change": "(1.44%)",
-    "time_frame": "1D"
-  },
-  "tata-power-company-ltd": {
-    "name": "Tata Power Company Ltd.",
-    "Link": "/stocks/tata-power-company-ltd",
-    "price": "₹402.20",
-    "absolute_change": "-0.40",
-    "percentage_change": "(0.10%)",
-    "time_frame": "1D"
-  },
-  "tata-consultancy-services-ltd": {
-    "name": "Tata Consultancy Services Ltd.",
-    "Link": "/stocks/tata-consultancy-services-ltd",
-    "price": "₹3,498.70",
-    "absolute_change": "-38.60",
-    "percentage_change": "(1.09%)",
-    "time_frame": "1D"
-  },
-  "hindustan-unilever-ltd": {
-    "name": "Hindustan Unilever Ltd.",
-    "Link": "/stocks/hindustan-unilever-ltd",
-    "price": "₹2,380.20",
-    "absolute_change": "-13.90",
-    "percentage_change": "(0.58%)",
-    "time_frame": "1D"
-  },
-  "ge-td-india-ltd": {
-    "name": "GE Vernova T&D India Ltd.",
-    "Link": "/stocks/ge-td-india-ltd",
-    "price": "₹2,210.50",
-    "absolute_change": "+136.90",
-    "percentage_change": "(6.60%)",
-    "time_frame": "1D"
-  },
-  "mahindra-mahindra-ltd": {
-    "name": "Mahindra & Mahindra Ltd.",
-    "Link": "/stocks/mahindra-mahindra-ltd",
-    "price": "₹3,039.80",
-    "absolute_change": "-40.40",
-    "percentage_change": "(1.31%)",
-    "time_frame": "1D"
-  },
-  "maruti-suzuki-india-ltd": {
-    "name": "Maruti Suzuki India Ltd.",
-    "Link": "/stocks/maruti-suzuki-india-ltd",
-    "price": "₹12,414.00",
-    "absolute_change": "-7.00",
-    "percentage_change": "(0.06%)",
-    "time_frame": "1D"
-  },
-  "sbi-life-insurance-company-ltd": {
-    "name": "SBI Life Insurance Company Ltd.",
-    "Link": "/stocks/sbi-life-insurance-company-ltd",
-    "price": "₹1,803.30",
-    "absolute_change": "+1.70",
-    "percentage_change": "(0.09%)",
-    "time_frame": "1D"
-  },
-  "zomato-ltd": {
-    "name": "Eternal Ltd.",
-    "Link": "/stocks/zomato-ltd",
-    "price": "₹224.79",
-    "absolute_change": "-2.01",
-    "percentage_change": "(0.89%)",
-    "time_frame": "1D"
-  },
-  "itc-ltd": {
-    "name": "ITC Ltd.",
-    "Link": "/stocks/itc-ltd",
-    "price": "₹433.90",
-    "absolute_change": "-9.00",
-    "percentage_change": "(2.03%)",
-    "time_frame": "1D"
-  },
-  "dr-reddys-laboratories-ltd": {
-    "name": "Dr. Reddy's Laboratories Ltd.",
-    "Link": "/stocks/dr-reddys-laboratories-ltd",
-    "price": "₹1,243.20",
-    "absolute_change": "+2.30",
-    "percentage_change": "(0.19%)",
-    "time_frame": "1D"
-  },
-  "ultratech-cement-ltd": {
-    "name": "Ultratech Cement Ltd.",
-    "Link": "/stocks/ultratech-cement-ltd",
-    "price": "₹11,421.00",
-    "absolute_change": "-268.00",
-    "percentage_change": "(2.29%)",
-    "time_frame": "1D"
-  },
-  "hcl-technologies-ltd": {
-    "name": "HCL Technologies Ltd.",
-    "Link": "/stocks/hcl-technologies-ltd",
-    "price": "₹1,652.10",
-    "absolute_change": "-21.50",
-    "percentage_change": "(1.28%)",
-    "time_frame": "1D"
-  },
-  "the-indian-hotels-company-ltd": {
-    "name": "The Indian Hotels Company Ltd.",
-    "Link": "/stocks/the-indian-hotels-company-ltd",
-    "price": "₹771.05",
-    "absolute_change": "-3.75",
-    "percentage_change": "(0.48%)",
-    "time_frame": "1D"
-  },
-  "chalet-hotels-ltd": {
-    "name": "Chalet Hotels Ltd.",
-    "Link": "/stocks/chalet-hotels-ltd",
-    "price": "₹920.70",
-    "absolute_change": "+6.40",
-    "percentage_change": "(0.70%)",
-    "time_frame": "1D"
-  },
-  "asian-paints-ltd": {
-    "name": "Asian Paints Ltd.",
-    "Link": "/stocks/asian-paints-ltd",
-    "price": "₹2,327.60",
-    "absolute_change": "+0.40",
-    "percentage_change": "(0.02%)",
-    "time_frame": "1D"
+  "sun-pharmaceutical-industries-ltd": {
+    "name": "Sun Pharmaceutical Industries Ltd.",
+    "Link": "/stocks/sun-pharmaceutical-industries-ltd",
+    "price": "₹1,666.40",
+    "absolute_change": "-17.00",
+    "percentage_change": "(1.01%)",
+    "time_frame": "1D",
+    "symbol": "SUNPHARMA"
   },
   "divis-laboratories-ltd": {
     "name": "Divi's Laboratories Ltd.",
     "Link": "/stocks/divis-laboratories-ltd",
-    "price": "₹6,698.00",
-    "absolute_change": "-39.00",
-    "percentage_change": "(0.58%)",
-    "time_frame": "1D"
+    "price": "₹6,636.00",
+    "absolute_change": "-62.00",
+    "percentage_change": "(0.93%)",
+    "time_frame": "1D",
+    "symbol": "DIVISLAB"
   },
-  "abb-india-ltd": {
-    "name": "ABB India Ltd.",
-    "Link": "/stocks/abb-india-ltd",
-    "price": "₹6,014.50",
-    "absolute_change": "+18.00",
-    "percentage_change": "(0.30%)",
-    "time_frame": "1D"
+  "cipla-ltd": {
+    "name": "Cipla Ltd.",
+    "Link": "/stocks/cipla-ltd",
+    "price": "₹1,468.50",
+    "absolute_change": "-12.00",
+    "percentage_change": "(0.81%)",
+    "time_frame": "1D",
+    "symbol": "CIPLA"
   },
-  "avenue-supermarts-ltd": {
-    "name": "Avenue Supermarts Ltd.",
-    "Link": "/stocks/avenue-supermarts-ltd",
-    "price": "₹4,094.00",
-    "absolute_change": "-44.40",
-    "percentage_change": "(1.07%)",
-    "time_frame": "1D"
+  "lupin-ltd": {
+    "name": "Lupin Ltd.",
+    "Link": "/stocks/lupin-ltd",
+    "price": "₹1,941.60",
+    "absolute_change": "-28.60",
+    "percentage_change": "(1.45%)",
+    "time_frame": "1D",
+    "symbol": "LUPIN"
   },
-  "vedanta-ltd": {
-    "name": "Vedanta Ltd.",
-    "Link": "/stocks/vedanta-ltd",
-    "price": "₹448.00",
-    "absolute_change": "+2.45",
-    "percentage_change": "(0.55%)",
-    "time_frame": "1D"
+  "max-healthcare-institute-ltd": {
+    "name": "Max Healthcare Institute Ltd.",
+    "Link": "/stocks/max-healthcare-institute-ltd",
+    "price": "₹1,149.00",
+    "absolute_change": "-10.40",
+    "percentage_change": "(0.90%)",
+    "time_frame": "1D",
+    "symbol": "MAXHEALTH"
   },
-  "hdfc-standard-life-insurance-co-ltd": {
-    "name": "HDFC Life Insurance Co Ltd.",
-    "Link": "/stocks/hdfc-standard-life-insurance-co-ltd",
-    "price": "₹775.80",
-    "absolute_change": "-4.20",
-    "percentage_change": "(0.54%)",
-    "time_frame": "1D"
-  },
-  "tata-global-beverages-ltd": {
-    "name": "Tata Consumer Products Ltd.",
-    "Link": "/stocks/tata-global-beverages-ltd",
-    "price": "₹1,138.40",
-    "absolute_change": "-7.90",
-    "percentage_change": "(0.69%)",
-    "time_frame": "1D"
-  },
-  "eih-ltd": {
-    "name": "EIH Ltd.",
-    "Link": "/stocks/eih-ltd",
-    "price": "₹369.25",
-    "absolute_change": "-0.90",
-    "percentage_change": "(0.24%)",
-    "time_frame": "1D"
-  },
-  "sbi-cards-payment-services-ltd": {
-    "name": "SBI Cards And Payment Services Ltd.",
-    "Link": "/stocks/sbi-cards-payment-services-ltd",
-    "price": "₹915.95",
-    "absolute_change": "+9.45",
-    "percentage_change": "(1.04%)",
-    "time_frame": "1D"
-  },
-  "tata-steel-ltd": {
-    "name": "Tata Steel Ltd.",
-    "Link": "/stocks/tata-steel-ltd",
-    "price": "₹161.66",
-    "absolute_change": "-0.85",
-    "percentage_change": "(0.52%)",
-    "time_frame": "1D"
-  },
-  "vishal-mega-mart-ltd": {
-    "name": "Vishal Mega Mart Ltd.",
-    "Link": "/stocks/vishal-mega-mart-ltd",
-    "price": "₹125.25",
-    "absolute_change": "+0.07",
-    "percentage_change": "(0.06%)",
-    "time_frame": "1D"
-  },
-  "icici-lombard-general-insurance-co-ltd": {
-    "name": "ICICI Lombard General Insurance Company Ltd.",
-    "Link": "/stocks/icici-lombard-general-insurance-co-ltd",
-    "price": "₹1,841.00",
-    "absolute_change": "-2.30",
-    "percentage_change": "(0.12%)",
-    "time_frame": "1D"
-  },
-  "tata-motors-ltd": {
-    "name": "Tata Motors Ltd.",
-    "Link": "/stocks/tata-motors-ltd",
-    "price": "₹716.45",
-    "absolute_change": "-12.55",
-    "percentage_change": "(1.72%)",
-    "time_frame": "1D"
-  },
-  "siemens-ltd": {
-    "name": "Siemens Ltd.",
-    "Link": "/stocks/siemens-ltd",
-    "price": "₹3,299.10",
-    "absolute_change": "+50.40",
-    "percentage_change": "(1.55%)",
-    "time_frame": "1D"
-  },
-  "max-financial-services-ltd": {
-    "name": "Max Financial Services Ltd.",
-    "Link": "/stocks/max-financial-services-ltd",
-    "price": "₹1,484.10",
-    "absolute_change": "+7.60",
-    "percentage_change": "(0.51%)",
-    "time_frame": "1D"
-  },
-  "rec-ltd": {
-    "name": "REC Ltd.",
-    "Link": "/stocks/rec-ltd",
-    "price": "₹405.15",
-    "absolute_change": "-1.65",
-    "percentage_change": "(0.41%)",
-    "time_frame": "1D"
-  },
-  "indusind-bank-ltd": {
-    "name": "Indusind Bank Ltd.",
-    "Link": "/stocks/indusind-bank-ltd",
-    "price": "₹820.70",
-    "absolute_change": "+20.60",
-    "percentage_change": "(2.57%)",
-    "time_frame": "1D"
-  },
-  "coal-india-ltd": {
-    "name": "Coal India Ltd.",
-    "Link": "/stocks/coal-india-ltd",
-    "price": "₹399.95",
-    "absolute_change": "-2.75",
-    "percentage_change": "(0.68%)",
-    "time_frame": "1D"
-  },
-  "hdfc-asset-management-company-ltd": {
-    "name": "HDFC Asset Management Company Ltd.",
-    "Link": "/stocks/hdfc-asset-management-company-ltd",
-    "price": "₹4,808.40",
-    "absolute_change": "-22.40",
-    "percentage_change": "(0.46%)",
-    "time_frame": "1D"
-  },
-  "interglobe-aviation-ltd": {
-    "name": "Interglobe Aviation Ltd.",
-    "Link": "/stocks/interglobe-aviation-ltd"
-  },
-  "motherson-sumi-systems-ltd": {
-    "name": "Samvardhana Motherson International Ltd.",
-    "Link": "/stocks/motherson-sumi-systems-ltd",
-    "price": "₹148.33",
-    "absolute_change": "-1.66",
-    "percentage_change": "(1.11%)",
-    "time_frame": "1D"
-  },
-  "hyundai-motor-india-ltd": {
-    "name": "Hyundai Motor India Ltd.",
-    "Link": "/stocks/hyundai-motor-india-ltd",
-    "price": "₹1,883.20",
-    "absolute_change": "-6.10",
-    "percentage_change": "(0.32%)",
-    "time_frame": "1D"
-  },
-  "devyani-international-ltd": {
-    "name": "Devyani International Ltd.",
-    "Link": "/stocks/devyani-international-ltd",
-    "price": "₹171.97",
-    "absolute_change": "-3.57",
-    "percentage_change": "(2.03%)",
-    "time_frame": "1D"
-  },
-  "one-communications-ltd": {
-    "name": "One97 Communications Ltd.",
-    "Link": "/stocks/one-communications-ltd",
-    "price": "₹866.55",
-    "absolute_change": "-3.45",
-    "percentage_change": "(0.40%)",
-    "time_frame": "1D"
-  },
-  "oil-natural-gas-corporation-ltd": {
-    "name": "Oil And Natural Gas Corporation Ltd.",
-    "Link": "/stocks/oil-natural-gas-corporation-ltd",
-    "price": "₹244.54",
-    "absolute_change": "-1.40",
-    "percentage_change": "(0.57%)",
-    "time_frame": "1D"
-  },
-  "trent-ltd": {
-    "name": "Trent Ltd.",
-    "Link": "/stocks/trent-ltd",
-    "price": "₹5,573.00",
-    "absolute_change": "+47.00",
-    "percentage_change": "(0.85%)",
-    "time_frame": "1D"
-  },
-  "tech-mahindra-ltd": {
-    "name": "Tech Mahindra Ltd.",
-    "Link": "/stocks/tech-mahindra-ltd",
-    "price": "₹1,592.40",
-    "absolute_change": "-9.00",
-    "percentage_change": "(0.56%)",
-    "time_frame": "1D"
-  },
-  "swiggy-ltd": {
-    "name": "Swiggy Ltd.",
-    "Link": "/stocks/swiggy-ltd",
-    "price": "₹320.15",
-    "absolute_change": "-0.70",
-    "percentage_change": "(0.22%)",
-    "time_frame": "1D"
-  },
-  "gillette-india-ltd": {
-    "name": "Gillette India Ltd.",
-    "Link": "/stocks/gillette-india-ltd",
-    "price": "₹9,400.50",
-    "absolute_change": "+11.50",
-    "percentage_change": "(0.12%)",
-    "time_frame": "1D"
-  },
-  "bank-of-baroda": {
-    "name": "Bank Of Baroda",
-    "Link": "/stocks/bank-of-baroda",
-    "price": "₹241.51",
-    "absolute_change": "-0.01",
-    "percentage_change": "(0.00%)",
-    "time_frame": "1D"
-  },
-  "eicher-motors-ltd": {
-    "name": "Eicher Motors Ltd.",
-    "Link": "/stocks/eicher-motors-ltd",
-    "price": "₹5,389.50",
-    "absolute_change": "-38.00",
-    "percentage_change": "(0.70%)",
-    "time_frame": "1D"
-  },
-  "godrej-consumer-products-ltd": {
-    "name": "Godrej Consumer Products Ltd.",
-    "Link": "/stocks/godrej-consumer-products-ltd",
-    "price": "₹1,269.60",
-    "absolute_change": "-14.90",
-    "percentage_change": "(1.16%)",
-    "time_frame": "1D"
-  },
-  "power-finance-corporation-ltd": {
-    "name": "Power Finance Corporation Ltd.",
-    "Link": "/stocks/power-finance-corporation-ltd",
-    "price": "₹413.10",
-    "absolute_change": "+0.60",
-    "percentage_change": "(0.15%)",
-    "time_frame": "1D"
-  },
-  "hindalco-industries-ltd": {
-    "name": "Hindalco Industries Ltd.",
-    "Link": "/stocks/hindalco-industries-ltd",
-    "price": "₹659.45",
-    "absolute_change": "-2.00",
-    "percentage_change": "(0.30%)",
-    "time_frame": "1D"
-  },
-  "colgatepalmolive-india-ltd": {
-    "name": "Colgate-Palmolive (India) Ltd.",
-    "Link": "/stocks/colgatepalmolive-india-ltd",
-    "price": "₹2,513.10",
-    "absolute_change": "+2.80",
-    "percentage_change": "(0.11%)",
-    "time_frame": "1D"
-  },
-  "pb-fintech-ltd": {
-    "name": "PB Fintech Ltd.",
-    "Link": "/stocks/pb-fintech-ltd",
-    "price": "₹1,783.30",
-    "absolute_change": "-5.10",
-    "percentage_change": "(0.29%)",
-    "time_frame": "1D"
-  },
-  "honeywell-automation-india-ltd": {
-    "name": "Honeywell Automation India Ltd.",
-    "Link": "/stocks/honeywell-automation-india-ltd",
-    "price": "₹38,130.00",
-    "absolute_change": "+925.00",
-    "percentage_change": "(2.49%)",
-    "time_frame": "1D"
-  },
-  "linde-india-ltd": {
-    "name": "Linde India Ltd.",
-    "Link": "/stocks/linde-india-ltd",
-    "price": "₹7,519.50",
-    "absolute_change": "-41.00",
-    "percentage_change": "(0.54%)",
-    "time_frame": "1D"
+  "krishna-institute-of-medical-sciences-ltd": {
+    "name": "Krishna Institute of Medical Sciences Ltd",
+    "Link": "/stocks/krishna-institute-of-medical-sciences-ltd",
+    "price": "₹651.85",
+    "absolute_change": "-2.35",
+    "percentage_change": "(0.36%)",
+    "time_frame": "1D",
+    "symbol": "KIMS"
   },
   "torrent-pharmaceuticals-ltd": {
     "name": "Torrent Pharmaceuticals Ltd.",
     "Link": "/stocks/torrent-pharmaceuticals-ltd",
-    "price": "₹3,175.70",
-    "absolute_change": "-11.70",
-    "percentage_change": "(0.37%)",
-    "time_frame": "1D"
+    "price": "₹3,165.90",
+    "absolute_change": "-9.80",
+    "percentage_change": "(0.31%)",
+    "time_frame": "1D",
+    "symbol": "TORNTPHARM"
   },
-  "grasim-industries-ltd": {
-    "name": "Grasim Industries Ltd.",
-    "Link": "/stocks/grasim-industries-ltd",
-    "price": "₹2,614.20",
-    "absolute_change": "-42.20",
-    "percentage_change": "(1.59%)",
-    "time_frame": "1D"
+  "aster-dm-healthcare-ltd": {
+    "name": "Aster DM Healthcare Ltd.",
+    "Link": "/stocks/aster-dm-healthcare-ltd",
+    "price": "₹542.70",
+    "absolute_change": "-6.20",
+    "percentage_change": "(1.13%)",
+    "time_frame": "1D",
+    "symbol": "ASTERDM"
+  },
+  "aurobindo-pharma-ltd": {
+    "name": "Aurobindo Pharma Ltd.",
+    "Link": "/stocks/aurobindo-pharma-ltd",
+    "price": "₹1,147.80",
+    "absolute_change": "-43.40",
+    "percentage_change": "(3.64%)",
+    "time_frame": "1D",
+    "symbol": "AUROPHARMA"
+  },
+  "glenmark-pharmaceuticals-ltd": {
+    "name": "Glenmark Pharmaceuticals Ltd.",
+    "Link": "/stocks/glenmark-pharmaceuticals-ltd",
+    "price": "₹1,380.00",
+    "absolute_change": "-5.00",
+    "percentage_change": "(0.36%)",
+    "time_frame": "1D",
+    "symbol": "GLENMARK"
+  },
+  "ipca-laboratories-ltd": {
+    "name": "Ipca Laboratories Ltd.",
+    "Link": "/stocks/ipca-laboratories-ltd"
+  },
+  "eris-lifesciences-ltd": {
+    "name": "Eris Lifesciences Ltd.",
+    "Link": "/stocks/eris-lifesciences-ltd"
+  },
+  "alkem-laboratories-ltd": {
+    "name": "Alkem Laboratories Ltd.",
+    "Link": "/stocks/alkem-laboratories-ltd"
+  },
+  "wockhardt-ltd": {
+    "name": "Wockhardt Ltd.",
+    "Link": "/stocks/wockhardt-ltd"
+  },
+  "vijaya-diagnostic-centre-ltd": {
+    "name": "Vijaya Diagnostic Centre Ltd.",
+    "Link": "/stocks/vijaya-diagnostic-centre-ltd"
+  },
+  "metropolis-healthcare-ltd": {
+    "name": "Metropolis Healthcare Ltd.",
+    "Link": "/stocks/metropolis-healthcare-ltd"
+  },
+  "dr-reddys-laboratories-ltd": {
+    "name": "Dr. Reddy's Laboratories Ltd.",
+    "Link": "/stocks/dr-reddys-laboratories-ltd"
+  },
+  "piramal-pharma-ltd": {
+    "name": "Piramal Pharma Ltd.",
+    "Link": "/stocks/piramal-pharma-ltd"
   },
   "gland-pharma-ltd": {
     "name": "Gland Pharma Ltd.",
-    "Link": "/stocks/gland-pharma-ltd",
-    "price": "₹1,527.90",
-    "absolute_change": "+0.30",
-    "percentage_change": "(0.02%)",
-    "time_frame": "1D"
+    "Link": "/stocks/gland-pharma-ltd"
   },
-  "united-breweries-ltd": {
-    "name": "United Breweries Ltd.",
-    "Link": "/stocks/united-breweries-ltd",
-    "price": "₹2,031.50",
-    "absolute_change": "-14.80",
-    "percentage_change": "(0.72%)",
-    "time_frame": "1D"
+  "ami-organics-ltd": {
+    "name": "Ami Organics Ltd.",
+    "Link": "/stocks/ami-organics-ltd"
   },
-  "pvr-ltd": {
-    "name": "PVR Inox Ltd.",
-    "Link": "/stocks/pvr-ltd",
-    "price": "₹992.60",
-    "absolute_change": "+3.65",
-    "percentage_change": "(0.37%)",
-    "time_frame": "1D"
+  "fortis-healthcare-ltd": {
+    "name": "Fortis Healthcare Ltd.",
+    "Link": "/stocks/fortis-healthcare-ltd"
   },
-  "m-india-ltd": {
-    "name": "3M India Ltd.",
-    "Link": "/stocks/m-india-ltd",
-    "price": "₹30,075.00",
-    "absolute_change": "-35.00",
-    "percentage_change": "(0.12%)",
-    "time_frame": "1D"
+  "bajaj-healthcare-ltd": {
+    "name": "Bajaj Healthcare Ltd.",
+    "Link": "/stocks/bajaj-healthcare-ltd"
   },
-  "shree-cement-ltd": {
-    "name": "Shree Cement Ltd.",
-    "Link": "/stocks/shree-cement-ltd",
-    "price": "₹30,950.00",
-    "absolute_change": "-150.00",
-    "percentage_change": "(0.48%)",
-    "time_frame": "1D"
+  "laxmi-dental-ltd": {
+    "name": "Laxmi Dental Ltd.",
+    "Link": "/stocks/laxmi-dental-ltd"
   },
-  "bharat-forge-ltd": {
-    "name": "Bharat Forge Ltd.",
-    "Link": "/stocks/bharat-forge-ltd",
-    "price": "₹1,250.40",
-    "absolute_change": "+0.70",
-    "percentage_change": "(0.06%)",
-    "time_frame": "1D"
+  "suven-pharmaceuticals-ltd": {
+    "name": "Cohance Lifesciences Ltd.",
+    "Link": "/stocks/suven-pharmaceuticals-ltd"
+  },
+  "dr-lal-pathlabs-ltd": {
+    "name": "Dr. Lal Pathlabs Ltd.",
+    "Link": "/stocks/dr-lal-pathlabs-ltd"
+  },
+  "jubilant-life-sciences-ltd": {
+    "name": "Jubilant Pharmova Ltd.",
+    "Link": "/stocks/jubilant-life-sciences-ltd"
+  },
+  "pfizer-ltd": {
+    "name": "Pfizer Ltd.",
+    "Link": "/stocks/pfizer-ltd"
+  },
+  "ajanta-pharma-ltd": {
+    "name": "Ajanta Pharma Ltd.",
+    "Link": "/stocks/ajanta-pharma-ltd"
+  },
+  "sai-life-sciences-ltd": {
+    "name": "Sai Life Sciences Ltd.",
+    "Link": "/stocks/sai-life-sciences-ltd"
+  },
+  "cadila-healthcare-ltd": {
+    "name": "Zydus Lifesciences Ltd.",
+    "Link": "/stocks/cadila-healthcare-ltd"
+  },
+  "medi-assist-healthcare-services-ltd": {
+    "name": "Medi Assist Healthcare Services Ltd.",
+    "Link": "/stocks/medi-assist-healthcare-services-ltd"
   }
 }
